@@ -67,11 +67,27 @@ Format JSON e hobe:
 20 ta question + 10 ta vocabulary must. Shob Bangla te, source soho. Valid JSON only.
 """
 
-print("Generating with Gemini 2.0 Flash...")
-response = client.models.generate_content(
-    model="gemini-3.8-flash",
-    contents=prompt
-)
+import time
+
+models_to_try = ["gemini-3.8-flash", "gemini-3.5-flash", "gemini-2.5-flash", "gemini-flash-latest"]
+
+response = None
+for model_name in models_to_try:
+    try:
+        print(f"Trying model: {model_name}...")
+        response = client.models.generate_content(
+            model=model_name,
+            contents=prompt
+        )
+        print(f"Success with {model_name}")
+        break
+    except Exception as e:
+        print(f"Failed {model_name}: {e}")
+        time.sleep(3)
+        continue
+
+if response is None:
+    raise Exception("All Gemini models are busy, try again later")
 
 clean_json = response.text.replace("```json", "").replace("```", "").strip()
 data = json.loads(clean_json)
