@@ -1,16 +1,16 @@
 import feedparser
 import json
 import os
-import google.generativeai as genai
+from google import genai
 from datetime import datetime
 import pytz
 
-# 1. Gemini API Key - GitHub Secret theke asbe
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel("gemini-1.5-flash")
+if not GEMINI_API_KEY:
+    raise ValueError("GEMINI_API_KEY not found!")
 
-# 2. Potrika RSS theke news newa
+client = genai.Client(api_key=GEMINI_API_KEY)
+
 RSS_FEEDS = {
     "প্রথম আলো": "https://www.prothomalo.com/feed/",
     "ডেইলি স্টার": "https://www.thedailystar.net/frontpage/rss.xml",
@@ -25,10 +25,13 @@ for name, url in RSS_FEEDS.items():
         feed = feedparser.parse(url)
         for entry in feed.entries[:7]:
             news_text += f"- {name}: {entry.title}\n"
-    except:
+    except Exception as e:
+        print(f"Failed {name}: {e}")
         continue
 
-# 3. AI diye 20 MCQ + 10 Vocab banano
+if not news_text.strip():
+    news_text = "Recent Bangladesh and international news for BCS preparation"
+
 bd_time = datetime.now(pytz.timezone('Asia/Dhaka'))
 today_str = bd_time.strftime("%d %B %Y")
 
@@ -49,7 +52,7 @@ Format JSON e hobe:
       "options": ["ক) ...", "খ) ...", "গ) ...", "ঘ) ..."],
       "answer": "ক) ...",
       "explanation": "2 line bekkha Bangla te",
-      "source": "Prothom Alo / Daily Star"
+      "source": "【entity-Prothom Alo¦canonical_name=Prothom Alo】 / 【entity-Daily Star¦canonical_name=Daily Star】"
     }}
   ],
   "vocabulary": [
@@ -64,17 +67,18 @@ Format JSON e hobe:
 20 ta question + 10 ta vocabulary must. Shob Bangla te, source soho. Valid JSON only.
 """
 
-print("Generating with Gemini...")
-response = model.generate_content(prompt)
-clean_json = response.text.replace("```json", "").replace("```", "").strip()
+print("Generating with Gemini 2.0 Flash...")
+response = client.models.generate_content(
+    model="gemini-2.0-flash",
+    contents=prompt
+)
 
-# 4. data.json save kora
+clean_json = response.text.replace("```json", "").replace("```", "").strip()
 data = json.loads(clean_json)
 
 with open("data.json", "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
 
-# 5. sitemap.xml er lastmod update
 sitemap_content = f'''<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
