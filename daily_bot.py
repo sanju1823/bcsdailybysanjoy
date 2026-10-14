@@ -1,16 +1,19 @@
 import feedparser
 import json
 import os
+import time
 from google import genai
 from datetime import datetime
 import pytz
 
+# 1. Gemini API Key - GitHub Secret theke asbe
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 if not GEMINI_API_KEY:
     raise ValueError("GEMINI_API_KEY not found!")
 
 client = genai.Client(api_key=GEMINI_API_KEY)
 
+# 2. Potrika RSS theke news newa
 RSS_FEEDS = {
     "প্রথম আলো": "https://www.prothomalo.com/feed/",
     "ডেইলি স্টার": "https://www.thedailystar.net/frontpage/rss.xml",
@@ -30,8 +33,9 @@ for name, url in RSS_FEEDS.items():
         continue
 
 if not news_text.strip():
-    news_text = "Recent Bangladesh and international news for BCS preparation"
+    news_text = "Recent Bangladesh and international news for BCS preparation - Bangladesh economy, constitution, science, international affairs"
 
+# 3. AI diye 20 MCQ + 10 Vocab banano
 bd_time = datetime.now(pytz.timezone('Asia/Dhaka'))
 today_str = bd_time.strftime("%d %B %Y")
 
@@ -64,14 +68,16 @@ Format JSON e hobe:
     }}
   ]
 }}
-20 ta question + 10 ta vocabulary must. Shob Bangla te, source soho. Valid JSON only.
+20 ta question + 10 ta vocabulary must. Shob Bangla te, source soho. Valid JSON only, no extra text.
 """
 
-import time
+print("Generating with Gemini (with fallback)...")
 
-models_to_try = ["gemini-3.8-flash", "gemini-3.5-flash", "gemini-2.5-flash", "gemini-flash-latest"]
+models_to_try = ["gemini-3.8-flash", "gemini-3.5-flash", "gemini-2.5-flash", "gemini-flash-latest", "gemini-2.0-flash"]
 
 response = None
+last_error = None
+
 for model_name in models_to_try:
     try:
         print(f"Trying model: {model_name}...")
@@ -83,18 +89,27 @@ for model_name in models_to_try:
         break
     except Exception as e:
         print(f"Failed {model_name}: {e}")
-        time.sleep(3)
+        last_error = e
+        time.sleep(2)
         continue
 
 if response is None:
-    raise Exception("All Gemini models are busy, try again later")
+    raise Exception(f"All Gemini models are busy. Last error: {last_error}")
 
 clean_json = response.text.replace("```json", "").replace("```", "").strip()
-data = json.loads(clean_json)
+
+# 4. data.json save kora
+try:
+    data = json.loads(clean_json)
+except Exception as e:
+    print(f"JSON parse error: {e}")
+    print(f"Raw response: {clean_json[:500]}")
+    raise
 
 with open("data.json", "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
 
+# 5. sitemap.xml er lastmod update
 sitemap_content = f'''<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
@@ -108,4 +123,4 @@ sitemap_content = f'''<?xml version="1.0" encoding="UTF-8"?>
 with open("sitemap.xml", "w", encoding="utf-8") as f:
     f.write(sitemap_content)
 
-print(f"Done! {len(data['questions'])} questions generated for {today_str}")
+print(f"Done! {len(data.get('questions', []))} questions generated for {today_str}")
