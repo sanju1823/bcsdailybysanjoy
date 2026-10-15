@@ -3,365 +3,366 @@
   "questions": [
     {
       "id": 1,
-      "category": "বাংলাদেশ বিষয়াবলী",
-      "question": "বিশ্বের দ্বিতীয় সর্বোচ্চ পর্বতশৃঙ্গ 'কে-টু' (K2) জয়কারী প্রথম বাংলাদেশি কে?",
+      "category": "ইতিহাস",
+      "question": "পর্তুগাল থেকে যৌতুক হিসেবে পাওয়া 'বোম্বে' দশ পাউন্ড ভাড়ায় ইস্ট ইন্ডিয়া কোম্পানিকে দিয়েছিলেন কোন ব্রিটিশ রাজা?",
       "options": [
-        "ক) মুসা ইব্রাহীম",
-        "খ) ওয়াসফিয়া নাজরীন",
-        "গ) নিশাত মজুমদার",
-        "ঘ) এম এ মুহিত"
+        "ক) রাজা প্রথম জেমস",
+        "খ) রাজা দ্বিতীয় চার্লস",
+        "গ) রাজা তৃতীয় জেমস",
+        "ঘ) রাজা চতুর্থ জেমস"
       ],
-      "answer": "খ) ওয়াসফিয়া নাজরীন",
-      "explanation": "ওয়াসফিয়া নাজরীন প্রথম বাংলাদেশি পর্বতারোহী হিসেবে বিশ্বের দ্বিতীয় সর্বোচ্চ ও বিপজ্জনক পর্বতশৃঙ্গ কে-টু জয় করেন। এর আগে তিনি দ্বিতীয় বাংলাদেশি নারী হিসেবে এভারেস্ট জয় করেছিলেন।",
-      "source": "ডেইলি স্টার",
-      "sourceUrl": "https://www.thedailystar.net/news/bangladesh/news/wasfia-first-bangladeshi-conquer-k2-3076981"
+      "answer": "খ) রাজা দ্বিতীয় চার্লস",
+      "explanation": "ব্রিটিশ ইতিহাসে ইস্ট ইন্ডিয়া কোম্পানির বিস্তারে বোম্বের গুরুত্ব অপরিসীম এবং এটি রাজা দ্বিতীয় চার্লসের হস্তক্ষেপে কোম্পানিকে প্রদান করা হয়েছিল।",
+      "source": "বিবিসি বাংলা",
+      "sourceUrl": "https://www.bbc.com/bengali/articles/cwvgr4rjy0zro?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": 2,
-      "category": "আন্তর্জাতিক বিষয়াবলী",
-      "question": "কে-টু (K2) পর্বতশৃঙ্গটি কোন পর্বতমালায় অবস্থিত?",
+      "category": "ভূগোল",
+      "question": "কে প্রথম বাংলাদেশি হিসেবে K2 শৃঙ্গ জয় করেছেন?",
       "options": [
-        "ক) হিমালয় পর্বতমালা",
-        "খ) কারাকোরাম পর্বতমালা",
-        "গ) আন্দিজ পর্বতমালা",
-        "ঘ) আল্পস পর্বতমালা"
+        "ক) মুশরিক হোসেন",
+        "খ) ওয়াসফিয়া নূর",
+        "গ) আরিয়ান আহমেদ",
+        "ঘ) তানভীর হাসান"
       ],
-      "answer": "খ) কারাকোরাম পর্বতমালা",
-      "explanation": "কে-টু শৃঙ্গটি পাকিস্তান ও চীনের সীমান্তে অবস্থিত কারাকোরাম পর্বতমালায় অবস্থিত। এর উচ্চতা ৮,৬১১ মিটার এবং একে 'স্যাভেজ মাউন্টেন' নামেও ডাকা হয়।",
+      "answer": "খ) ওয়াসফিয়া নূর",
+      "explanation": "ওয়াসফিয়া নূর প্রথম বাংলাদেশি হিসেবে বিশ্বের দ্বিতীয় সর্বোচ্চ শৃঙ্গ K2 জয় করে ইতিহাস সৃষ্টি করেছেন।",
       "source": "ডেইলি স্টার",
       "sourceUrl": "https://www.thedailystar.net/news/bangladesh/news/wasfia-first-bangladeshi-conquer-k2-3076981"
     },
     {
       "id": 3,
-      "category": "আন্তর্জাতিক বিষয়াবলী",
-      "question": "রোহিঙ্গা গণহত্যার অভিযোগে আন্তর্জাতিক বিচার আদালতে (ICJ) মিয়ানমারের বিরুদ্ধে মামলা দায়েরকারী দেশ কোনটি?",
+      "category": "আন্তর্জাতিক বিষয়াবলি",
+      "question": "সম্প্রতি কোন দেশের পেশোয়ারে স্কুলের ছাদ ধসে ৩৩ জন শিশু ও একজন শিক্ষক নিহত হয়েছেন?",
       "options": [
-        "ক) বাংলাদেশ",
-        "খ) দক্ষিণ আফ্রিকা",
-        "গ) গাম্বিয়া",
-        "ঘ) মালয়েশিয়া"
+        "ক) আফগানিস্তান",
+        "খ) ইরান",
+        "গ) পাকিস্তান",
+        "ঘ) ইরাক"
       ],
-      "answer": "গ) গাম্বিয়া",
-      "explanation": "২০১৯ সালের নভেম্বরে অর্গানাইজেশন অব ইসলামিক কোঅপারেশনের (OIC) সমর্থনে আফ্রিকার দেশ গাম্বিয়া আন্তর্জাতিক বিচার আদালতে (ICJ) মামলাটি দায়ের করে। আইসিজে মিয়ানমারের আপত্তি খারিজ করে মামলাটি এগিয়ে নেওয়ার ঐতিহাসিক রায় দেয়।",
-      "source": "ডেইলি স্টার",
-      "sourceUrl": "https://www.thedailystar.net/rohingya-influx/news/rohingya-genocide-case-proceed-3076971"
-    },
-    {
-      "id": 4,
-      "category": "আন্তর্জাতিক বিষয়াবলী",
-      "question": "জাতিসংঘের প্রধান বিচারিক অঙ্গ 'আন্তর্জাতিক বিচার আদালত' (ICJ)-এর সদর দপ্তর কোথায় অবস্থিত?",
-      "options": [
-        "ক) জেনেভা, সুইজারল্যান্ড",
-        "খ) হেগ, নেদারল্যান্ডস",
-        "গ) নিউইয়র্ক, যুক্তরাষ্ট্র",
-        "ঘ) রোম, ইতালি"
-      ],
-      "answer": "খ) হেগ, নেদারল্যান্ডস",
-      "explanation": "আন্তর্জাতিক বিচার আদালত (International Court of Justice বা ICJ) ১৯৪৫ সালে প্রতিষ্ঠিত হয় এবং এর সদর দপ্তর নেদারল্যান্ডসের দ্য হেগের পিস প্যালেসে অবস্থিত।",
-      "source": "ডেইলি স্টার",
-      "sourceUrl": "https://www.thedailystar.net/rohingya-influx/news/rohingya-genocide-case-proceed-3076971"
-    },
-    {
-      "id": 5,
-      "category": "ইতিহাস",
-      "question": "১৬৬৮ সালে ব্রিটিশ রাজা দ্বিতীয় চার্লস কোন শহরটি বার্ষিক মাত্র ১০ পাউন্ড ভাড়ায় ইস্ট ইন্ডিয়া কোম্পানিকে হস্তান্তর করেন?",
-      "options": [
-        "ক) মাদ্রাজ",
-        "খ) কলকাতা",
-        "গ) বোম্বে (মুম্বাই)",
-        "ঘ) গোয়া"
-      ],
-      "answer": "গ) বোম্বে (মুম্বাই)",
-      "explanation": "পর্তুগিজ রাজকুমারী ক্যাথরিন অব ব্রাগানজার সঙ্গে বিবাহের যৌতুক হিসেবে বোম্বে দ্বীপ পান ইংল্যান্ডের রাজা দ্বিতীয় চার্লস। পরবর্তীতে ১৬৬৮ সালে তিনি এটি ইস্ট ইন্ডিয়া কোম্পানিকে লিজ দেন।",
-      "source": "বিবিসি বাংলা",
-      "sourceUrl": "https://www.bbc.com/bengali/articles/cwvgr4rjy0zro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": 6,
-      "category": "ইতিহাস",
-      "question": "উপমহাদেশে প্রথম ইউরোপীয় ঔপনিবেশিক শক্তি হিসেবে আগমন করেছিল কারা?",
-      "options": [
-        "ক) ইংরেজ",
-        "খ) ওলন্দাজ",
-        "গ) ফরাসি",
-        "ঘ) পর্তুগিজ"
-      ],
-      "answer": "ঘ) পর্তুগিজ",
-      "explanation": "১৪৯৮ সালে ভাস্কো দা গামার ভারত আগমনের মাধ্যমে পর্তুগিজরা প্রথম ইউরোপীয় হিসেবে ভারতবর্ষে পদার্পণ করে এবং পরবর্তীতে বোম্বে ও গোয়ায় শক্ত ঘাঁটি গড়ে তোলে।",
-      "source": "বিবিসি বাংলা",
-      "sourceUrl": "https://www.bbc.com/bengali/articles/cwvgr4rjy0zro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": 7,
-      "category": "বিজ্ঞান ও প্রযুক্তি",
-      "question": "স্যাটেলাইট ভিত্তিক ইন্টারনেট পরিষেবা 'স্টারলিংক' (Starlink) কোন প্রযুক্তি প্রতিষ্ঠানের প্রকল্প?",
-      "options": [
-        "ক) ব্লু অরিজিন",
-        "খ) স্পেসএক্স",
-        "গ) নাসা",
-        "ঘ) মাইক্রোসফট"
-      ],
-      "answer": "খ) স্পেসএক্স",
-      "explanation": "স্টারলিংক হলো ইলন মাস্কের মালিকানাধীন স্পেসএক্স (SpaceX)-এর পরিচালিত একটি কৃত্রিম উপগ্রহপুঞ্জ ভিত্তিক ব্রডব্যান্ড ইন্টারনেট নেটওয়ার্ক। ইউক্রেন যুদ্ধে এর কৌশলগত ব্যবহার ব্যাপক আলোচিত।",
-      "source": "বিবিসি বাংলা",
-      "sourceUrl": "https://www.bbc.com/bengali/articles/cm8xzgvdnn2go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": 8,
-      "category": "বিজ্ঞান ও প্রযুক্তি",
-      "question": "ডেঙ্গু রোগ সৃষ্টিকারী ভাইরাসটি কোন গোত্রের অন্তর্গত?",
-      "options": [
-        "ক) ফ্ল্যাভিভাইরাস",
-        "খ) রেনোভাইরাস",
-        "গ) করোনাভাইরাস",
-        "ঘ) রেট্রোভাইরাস"
-      ],
-      "answer": "ক) ফ্ল্যাভিভাইরাস",
-      "explanation": "ডেঙ্গু একটি মশাবাহিত ফ্ল্যাভিভাইরাস জনিত রোগ। এটি প্রধানত স্ত্রী এডিস এজিপ্টি (Aedes aegypti) মশার কামড়ের মাধ্যমে মানবদেহে ছড়ায়।",
-      "source": "বিবিসি বাংলা",
-      "sourceUrl": "https://www.bbc.co.uk/bengali/live/cw07315ejj93t?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": 9,
-      "category": "বিজ্ঞান ও প্রযুক্তি",
-      "question": "ডেঙ্গু জ্বরে মানবদেহের রক্তরসের কোন উপাদানটির মাত্রা আশঙ্কাজনকভাবে হ্রাস পায়?",
-      "options": [
-        "ক) এরিথ্রোসাইট",
-        "খ) শ্বেত রক্তকণিকা",
-        "গ) অণুচক্রিকা (প্লাটিলেট)",
-        "ঘ) হিমোগ্লোবিন"
-      ],
-      "answer": "গ) অণুচক্রিকা (প্লাটিলেট)",
-      "explanation": "ডেঙ্গু সংক্রমণের ফলে রক্তে প্লাটিলেট বা অণুচক্রিকার পরিমাণ স্বাভাবিকের (দেড় থেকে সাড়ে চার লাখ) তুলনায় মারাত্মকভাবে কমে যেতে পারে, যা অভ্যন্তরীণ রক্তক্ষরণের ঝুঁকি তৈরি করে।",
-      "source": "বিবিসি বাংলা",
-      "sourceUrl": "https://www.bbc.co.uk/bengali/live/cw07315ejj93t?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": 10,
-      "category": "বাংলাদেশ বিষয়াবলী",
-      "question": "বাংলাদেশের একমাত্র বিশেষায়িত কৃষি বিশ্ববিদ্যালয় হিসেবে 'শেরেবাংলা কৃষি বিশ্ববিদ্যালয়' কোথায় অবস্থিত?",
-      "options": [
-        "ক) ময়মনসিংহ",
-        "খ) ঢাকা (শেরেবাংলা নগর)",
-        "গ) গাজীপুর",
-        "ঘ) সিলেট"
-      ],
-      "answer": "খ) ঢাকা (শেরেবাংলা নগর)",
-      "explanation": "শেরেবাংলা কৃষি বিশ্ববিদ্যালয় ১৯৩৮ সালে দ্য বেঙ্গল এগ্রিকালচারাল ইনস্টিটিউট হিসেবে প্রতিষ্ঠিত হয় এবং ২০০১ সালে ঢাকার শেরেবাংলা নগরে পূর্ণাঙ্গ বিশ্ববিদ্যালয় হিসেবে রূপান্তরিত হয়।",
-      "source": "প্রথম আলো",
-      "sourceUrl": "https://www.prothomalo.com/bangladesh/bw39b7gia7"
-    },
-    {
-      "id": 11,
-      "category": "বাংলাদেশ বিষয়াবলী",
-      "question": "সংবাদপত্রের মালিকদের সংগঠন 'নোয়াব' (NOAB)-এর পূর্ণরূপ কোনটি?",
-      "options": [
-        "ক) National Organization of Associated Broadcasters",
-        "খ) Newspaper Owners' Association of Bangladesh",
-        "গ) News Operations Association of Bangladesh",
-        "ঘ) National Owners' Alliance for Broadcasting"
-      ],
-      "answer": "খ) Newspaper Owners' Association of Bangladesh",
-      "explanation": "নোয়াব (NOAB) হলো বাংলাদেশে প্রকাশিত প্রধান জাতীয় দৈনিক সংবাদপত্র মালিকদের শীর্ষ সংগঠন, যা সংবাদপত্র শিল্পের স্বার্থ সংরক্ষণে কাজ করে।",
-      "source": "ডেইলি স্টার",
-      "sourceUrl": "https://www.thedailystar.net/news/bangladesh/news/noab-hikes-newspaper-price-tk-2-jul-25-3076201"
-    },
-    {
-      "id": 12,
-      "category": "আন্তর্জাতিক বিষয়াবলী",
-      "question": "ঐতিহাসিক খাইবার গিরিপথ এবং পেশোয়ার শহর পাকিস্তানের কোন প্রদেশে অবস্থিত?",
-      "options": [
-        "ক) পাঞ্জাব",
-        "খ) সিন্ধু",
-        "গ) খাইবার পাখতুনখোয়া",
-        "ঘ) বেলুচিস্তান"
-      ],
-      "answer": "গ) খাইবার পাখতুনখোয়া",
-      "explanation": "পাকিস্তানের উত্তর-পশ্চিমাঞ্চলীয় প্রদেশ খাইবার পাখতুনখোয়ার প্রাদেশিক রাজধানী হলো পেশোয়ার। এটি মধ্য এশিয়া ও ভারতীয় উপমহাদেশের সংযোগস্থল হিসেবে ঐতিহাসিকভাবে গুরুত্বপূর্ণ।",
+      "answer": "গ) পাকিস্তান",
+      "explanation": "পাকিস্তানের পেশোয়ারে একটি স্কুল ভবনের ছাদ ধসে এই মর্মান্তিক দুর্ঘটনাটি ঘটেছে।",
       "source": "বিবিসি বাংলা",
       "sourceUrl": "https://www.bbc.com/bengali/articles/cq2031p56nejo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": 13,
-      "category": "বাংলাদেশ বিষয়াবলী",
-      "question": "বাংলাদেশ ও ভারতের মধ্যকার আন্তর্জাতিক সীমানার আনুমানিক মোট দৈর্ঘ্য কত কিলোমিটার?",
+      "id": 4,
+      "category": "আন্তর্জাতিক বিষয়াবলি",
+      "question": "মদিনার দিকে ছোড়া ক্ষেপণাস্ত্র ভূপাতিত করার দাবি করেছে কোন জোট?",
       "options": [
-        "ক) ৩,১১৮ কিমি",
-        "খ) ৪,১৫৬ কিমি",
-        "গ) ৪,০৯৬ কিমি",
-        "ঘ) ২,৮৫৬ কিমি"
+        "ক) সৌদি জোট",
+        "খ) ন্যাটো (NATO)",
+        "গ) আরব লীগ",
+        "ঘ) ইউরোপীয় ইউনিয়ন"
       ],
-      "answer": "গ) ৪,০৯৬ কিমি",
-      "explanation": "বাংলাদেশ ও ভারতের মধ্যে বিশ্বের অন্যতম দীর্ঘ আন্তর্জাতিক স্থলসীমানা রয়েছে, যার মোট দৈর্ঘ্য প্রায় ৪,০৯৬.৭ কিলোমিটার। ভারতের ৫টি রাজ্যের সাথে বাংলাদেশের সীমানা রয়েছে।",
-      "source": "প্রথম আলো",
-      "sourceUrl": "https://www.prothomalo.com/bangladesh/district/nv8x4kqafv"
+      "answer": "ক) সৌদি জোট",
+      "explanation": "সৌদি জোট দাবি করেছে তারা মদিনার দিকে ছোড়া ক্ষেপণাস্ত্র ভূপাতিত করেছে, যা হুথিরা অস্বীকার করেছে।",
+      "source": "বিবিসি বাংলা",
+      "sourceUrl": "https://www.bbc.co.uk/bengali/live/cw07315ejj93t?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": 14,
+      "id": 5,
       "category": "বিজ্ঞান ও প্রযুক্তি",
-      "question": "তথ্যপ্রযুক্তির পরিভাষায় 'ড্রোন' (Drone)-এর প্রযুক্তিগত পরিচয় কোনটি?",
+      "question": "ইউক্রেনের ড্রোনের গতি কমানোর পেছনে কোন দেশের সরকারের ভূমিকা থাকতে পারে বলে ইঙ্গিত দিয়েছেন ইলন মাস্ক?",
       "options": [
-        "ক) Autonomous Marine Vessel",
-        "খ) Unmanned Aerial Vehicle (UAV)",
-        "গ) Remotely Guided Missile",
-        "ঘ) Virtual Reality System"
+        "ক) রাশিয়া",
+        "খ) চীন",
+        "গ) যুক্তরাষ্ট্র",
+        "ঘ) যুক্তরাজ্য"
       ],
-      "answer": "খ) Unmanned Aerial Vehicle (UAV)",
-      "explanation": "ড্রোনকে সামরিক ও তথ্যপ্রযুক্তির ভাষায় 'আনম্যানড এরিয়াল ভেহিকল' (UAV) বলা হয়, যা কোনো মানব পাইলট ছাড়াই দূরনিয়ন্ত্রিতভাবে কিংবা স্বয়ংক্রিয়ভাবে পরিচালিত হয়।",
+      "answer": "গ) যুক্তরাষ্ট্র",
+      "explanation": "ইলন মাস্ক ইঙ্গিত দিয়েছেন যে ইউক্রেনের ড্রোনের কার্যকারিতা বা গতি কমানোর পেছনে যুক্তরাষ্ট্র সরকারের সংশ্লিষ্টতা থাকতে পারে।",
       "source": "বিবিসি বাংলা",
       "sourceUrl": "https://www.bbc.com/bengali/articles/cm8xzgvdnn2go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": 15,
-      "category": "বাংলাদেশ বিষয়াবলী",
-      "question": "চট্টগ্রাম বিশ্ববিদ্যালয় (চবি) আনুষ্ঠানিকভাবে কত সালে একাডেমিক কার্যক্রম শুরু করে?",
+      "id": 6,
+      "category": "আইন ও বিচার",
+      "question": "প্রশ্নপত্র ফাঁসকাণ্ডে আবেদ আলীর ছেলের কত বছরের কারাদণ্ড হয়েছে?",
       "options": [
-        "ক) ১৯৫৩",
-        "খ) ১৯৬৬",
-        "গ) ১৯৭২",
-        "ঘ) ১৯৬৯"
+        "ক) ২ বছর",
+        "খ) ৩ বছর",
+        "গ) ৪ বছর",
+        "ঘ) ৫ বছর"
       ],
-      "answer": "খ) ১৯৬৬",
-      "explanation": "চট্টগ্রাম বিশ্ববিদ্যালয় ১৮ নভেম্বর ১৯৬৬ সালে প্রতিষ্ঠিত হয় এবং এটি বাংলাদেশের অন্যতম বৃহৎ আয়তনের উচ্চশিক্ষা প্রতিষ্ঠান হিসেবে স্বীকৃত।",
+      "answer": "গ) ৪ বছর",
+      "explanation": "প্রশ্নপত্র ফাঁস সংক্রান্ত মামলায় আদালত আবেদ আলীর ছেলেকে ৪ বছরের কারাদণ্ড প্রদান করেছে।",
+      "source": "প্রথম আলো",
+      "sourceUrl": "https://www.prothomalo.com/video/bangladesh/qe70iea6s5"
+    },
+    {
+      "id": 7,
+      "category": "ভূগোল",
+      "question": "K2 শৃঙ্গটি কোন পর্বতমালায় অবস্থিত?",
+      "options": [
+        "ক) হিমালয়",
+        "খ) কারাকোরাম",
+        "গ) আল্পস",
+        "ঘ) আন্দিজ"
+      ],
+      "answer": "খ) কারাকোরাম",
+      "explanation": "K2 হলো কারাকোরাম পর্বতমালায় অবস্থিত বিশ্বের দ্বিতীয় সর্বোচ্চ পর্বতশৃঙ্গ।",
+      "source": "ডেইলি স্টার",
+      "sourceUrl": "https://www.thedailystar.net/news/bangladesh/news/wasfia-first-bangladeshi-conquer-k2-3076981"
+    },
+    {
+      "id": 8,
+      "category": "আন্তর্জাতিক বিষয়াবলি",
+      "question": "রোহিঙ্গা গণহত্যা (Rohingya genocide) সংক্রান্ত মামলাটি কোন প্রেক্ষাপটে আলোচিত হচ্ছে?",
+      "options": [
+        "ক) আন্তর্জাতিক অপরাধ আদালত",
+        "খ) রোহিঙ্গা ইনফ্লাক্স ও মানবাধিকার",
+        "গ) জাতিসংঘ নিরাপত্তা পরিষদ",
+        "ঘ) আসান আন্তর্জাতিক আদালত"
+      ],
+      "answer": "খ) রোহিঙ্গা ইনফ্লাক্স ও মানবাধিকার",
+      "explanation": "রোহিঙ্গা গণহত্যা সংক্রান্ত মামলাটি আন্তর্জাতিক মানবাধিকার ও রোহিঙ্গা সংকট নিরসনে অত্যন্ত গুরুত্বপূর্ণ।",
+      "source": "ডেইলি স্টার",
+      "sourceUrl": "https://www.thedailystar.net/news/bangladesh/news/rohingya-genocide-case-proceed-3076971"
+    },
+    {
+      "id": 9,
+      "category": "শিক্ষা",
+      "question": "যুক্তরাষ্ট্রের উচ্চশিক্ষায় 'অ্যাসিস্ট্যান্টশিপ' (Assistantship) বলতে সাধারণত কী বোঝায়?",
+      "options": [
+        "ক) শুধুমাত্র টিউশন ফি মওকুফ",
+        "খ) কাজের বিনিময়ে বৃত্তি ও স্টাইপেন্ড",
+        "গ) একটি সরকারি চাকরি",
+        "ঘটি। গবেষণার জন্য ল্যাব সুবিধা"
+      ],
+      "answer": "খ) কাজের বিনিময়ে বৃত্তি ও স্টাইপেন্ড",
+      "explanation": "অ্যাসিস্ট্যান্টশিপ হলো উচ্চশিক্ষার একটি মাধ্যম যেখানে শিক্ষার্থীরা গবেষণা বা টিচিংয়ের বিনিময়ে স্টাইপেন্ড ও টিউশন ফি সুবিধা পায়।",
+      "source": "প্রথম আলো",
+      "sourceUrl": "https://www.prothomalo.com/education/higher-education/qraf53h6vx"
+    },
+    {
+      "id": 10,
+      "category": "খেলাধুলা",
+      "question": "লিসান্দ্রো মার্তিনেজ কোন খেলার সাথে যুক্ত?",
+      "options": [
+        "ক) ক্রিকেট",
+        "খ) ফুটবল",
+        "গ) টেনিস",
+        "ঘ) বাস্কেটবল"
+      ],
+      "answer": "খ) ফুটবল",
+      "explanation": "লিসান্দ্রো মার্তিনেজ একজন পেশাদার ফুটবলার।",
+      "source": "প্রথম আলো",
+      "sourceUrl": "https://www.prothomalo.com/sports/football/zslzj6lp25"
+    },
+    {
+      "id": 11,
+      "category": "সামাজিক সমস্যা",
+      "question": "চট্টগ্রাম বিশ্ববিদ্যালয়ের (CU) প্রশাসন সম্প্রতি কাদের শনাক্ত করেছে?",
+      "options": [
+        "ক) মাদক ব্যবসায়ী",
+        "খ) যৌন নিপীড়ক (Molesters)",
+        "গ) চোর",
+        "ঘের। রাজনৈতিক নেতা"
+      ],
+      "answer": "খ) যৌন নিপীড়ক (Molesters)",
+      "explanation": "চট্টগ্রাম বিশ্ববিদ্যালয়ের প্রশাসন ক্যাম্পাসে ঘটে যাওয়া যৌন নিপীড়ন সংক্রান্ত ঘটনায় দুই ব্যক্তিকে শনাক্ত করেছে।",
       "source": "ডেইলি স্টার",
       "sourceUrl": "https://www.thedailystar.net/youth/education/campus/news/cu-admin-identifies-2-molesters-3076956"
     },
     {
-      "id": 16,
-      "category": "অর্থনীতি",
-      "question": "বিশ্বের বিভিন্ন দেশের ডিজিটাল অবকাঠামো ও সফটওয়্যার সেবা রপ্তানি বাংলাদেশের অর্থনীতির কোন খাতের আওতায় পড়ে?",
+      "id": 12,
+      "category": "অর্থনীতি ও গণমাধ্যম",
+      "question": "Noab পত্রিকা জুলাই মাস থেকে কত টাকা দাম বৃদ্ধি করেছে?",
       "options": [
-        "ক) প্রাথমিক খাত",
-        "খ) উৎপাদন খাত",
-        "গ) সেবা খাত (আইসিটি)",
-        "ঘ) অপ্রচলিত কৃষি খাত"
+        "ক) ১ টাকা",
+        "খ) ২ টাকা",
+        "গ) ৩ টাকা",
+        "ঘ) ৫ টাকা"
       ],
-      "answer": "গ) সেবা খাত (আইসিটি)",
-      "explanation": "তথ্য ও যোগাযোগ প্রযুক্তি (আইসিটি) ও সফটওয়্যার সেবা রপ্তানি বাংলাদেশের তৃতীয় বা সেবা খাতের দ্রুত বর্ধনশীল বৈদেশিক মুদ্রা অর্জনকারী একটি রূপ।",
-      "source": "প্রথম আলো",
-      "sourceUrl": "https://www.prothomalo.com/technology/freelancing/6u2kbrhx6s"
-    },
-    {
-      "id": 17,
-      "category": "সংবিধান",
-      "question": "গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধানের কোন অনুচ্ছেদে সংবাদপত্রের স্বাধীনতার নিশ্চয়তা প্রদান করা হয়েছে?",
-      "options": [
-        "ক) ৩১ নং অনুচ্ছেদ",
-        "খ) ৩২ নং অনুচ্ছেদ",
-        "গ) ৩৯(২)(খ) অনুচ্ছেদ",
-        "ঘ) ৪২ নং অনুচ্ছেদ"
-      ],
-      "answer": "গ) ৩৯(২)(খ) অনুচ্ছেদ",
-      "explanation": "সংবিধানের ৩৯ অনুচ্ছেদে চিন্তা ও বিবেকের স্বাধীনতা এবং বাক-স্বাধীনতার পাশাপাশি ৩৯(২)(খ) ধারায় সংবাদক্ষেত্রের স্বাধীনতার নিশ্চয়তা রাষ্ট্রীয়ভাবে দেওয়া হয়েছে।",
+      "answer": "খ) ২ টাকা",
+      "explanation": "Noab সংবাদপত্র তাদের পত্রিকার মূল্য ২৫ জুলাই থেকে ২ টাকা বৃদ্ধি করার সিদ্ধান্ত নিয়েছে।",
       "source": "ডেইলি স্টার",
       "sourceUrl": "https://www.thedailystar.net/news/bangladesh/news/noab-hikes-newspaper-price-tk-2-jul-25-3076201"
     },
     {
-      "id": 18,
-      "category": "বাংলাদেশ বিষয়াবলী",
-      "question": "বাংলাদেশে বেসরকারি বিশ্ববিদ্যালয়সমূহ কোন আইনের অধীনে প্রতিষ্ঠিত ও পরিচালিত হয়?",
+      "id": 13,
+      "category": "রাজনীতি ও অপরাধ",
+      "question": "শামীমের বিরুদ্ধে করা মামলায় কোন রাজনৈতিক দলের নেতা-কর্মীদের সংশ্লিষ্টতার অভিযোগ উঠেছে?",
       "options": [
-        "ক) বেসরকারি বিশ্ববিদ্যালয় আইন, ২০১০",
-        "খ) উচ্চশিক্ষা ট্রাস্ট আইন, ১৯৯২",
-        "গ) বিশ্ববিদ্যালয় মঞ্জুরী কমিশন আইন, ১৯৭৩",
-        "ঘ) জাতীয় শিক্ষা নীতিমালা আইন, ২০১৮"
+        "ক) আওয়ামী লীগ",
+        "খ) বিএনপি",
+        "গ) জামায়াত",
+        "ঘের। বামপন্থী দল"
       ],
-      "answer": "ক) বেসরকারি বিশ্ববিদ্যালয় আইন, ২০১০",
-      "explanation": "বাংলাদেশে বেসরকারি বিশ্ববিদ্যালয়গুলো 'বেসরকারি বিশ্ববিদ্যালয় আইন, ২০১০' (সংশোধিত) এবং বিশ্ববিদ্যালয় মঞ্জুরী কমিশনের (UGC) বিধিমালার অধীনে ট্রাস্টি বোর্ডের মাধ্যমে পরিচালিত হয়।",
-      "source": "প্রথম আলো",
-      "sourceUrl": "https://www.prothomalo.com/education/campus/3elt0tb46l"
-    },
-    {
-      "id": 19,
-      "category": "আন্তর্জাতিক বিষয়াবলী",
-      "question": "আন্তর্জাতিক রাজনীতি ও সমাজবিজ্ঞানের ভাষায় 'মব জাস্টিস' (Mob Justice) বলতে কী বোঝায়?",
-      "options": [
-        "ক) সাংবিধানিক আদালতের রায়",
-        "খ) উচ্ছৃঙ্খল জনতার আইন নিজের হাতে তুলে নেওয়া",
-        "গ) সামরিক ট্রাইব্যুনালের বিচার",
-        "ঘ) আন্তর্জাতিক সালিশি আদালত"
-      ],
-      "answer": "খ) উচ্ছৃঙ্খল জনতার আইন নিজের হাতে তুলে নেওয়া",
-      "explanation": "আইন ও বিচার ব্যবস্থার তোয়াক্কা না করে একদল মারমুখী জনতা দ্বারা কোনো ব্যক্তিকে তাৎক্ষণিক বিচার বা সহিংসতার মাধ্যমে শাস্তি দেওয়াকে 'মব জাস্টিস' বা মব ভায়োলেন্স বলা হয়।",
+      "answer": "গ) জামায়াত",
+      "explanation": "শামীমের বিরুদ্ধে করা একটি 'মবে' মামলায় স্থানীয় জামায়াতের নেতা-কর্মীদের জড়িত থাকার অভিযোগ উঠেছে।",
       "source": "বিবিসি বাংলা",
       "sourceUrl": "https://www.bbc.com/bengali/articles/cq3695z2rx23o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": 20,
-      "category": "আন্তর্জাতিক বিষয়াবলী",
-      "question": "জাতিসংঘের ১৯৪৮ সালের কনভেনশন অনুযায়ী 'জেনোসাইড' (Genocide) শব্দের সুনির্দিষ্ট অর্থ কী?",
+      "id": 14,
+      "category": "আন্তর্জাতিক বিষয়াবলি",
+      "question": "দিল্লিতে আটক বিক্ষোভকারীদের বিরুদ্ধে কোন ধরনের নির্যাতনের অভিযোগ উঠেছে?",
       "options": [
-        "ক) যুদ্ধবন্দী নির্যাতন",
-        "খ) কোনো জাতীয়, জাতিগত বা ধর্মীয় গোষ্ঠীকে সম্পূর্ণ বা আংশিক ধ্বংসের উদ্দেশ্যমূলক অপরাধ",
-        "গ) সীমান্ত অতিক্রম করে আগ্রাসন চালানো",
-        "ঘ) রাষ্ট্রদ্রোহিতা দমন"
+        "ক) কেবল লাঠিচার্জ",
+        "খ) শারীরিক ও যৌন নিপীড়ন",
+        "গ) কারাবাস",
+        "ঘের। অনাহার"
       ],
-      "answer": "খ) কোনো জাতীয়, জাতিগত বা ধর্মীয় গোষ্ঠীকে সম্পূর্ণ বা আংশিক ধ্বংসের উদ্দেশ্যমূলক অপরাধ",
-      "explanation": "১৯৪৮ সালের জাতিসংঘ কনভেনশন অন দ্য প্রিভেনশন অ্যান্ড পানিশমেন্ট অব দ্য ক্রাইম অব জেনোসাইড অনুসারে কোনো বিশেষ জনগোষ্ঠীকে আংশিক বা সম্পূর্ণরূপে নিশ্চিহ্ন করাই গণহত্যা হিসেবে সংজ্ঞায়িত।",
+      "answer": "খ) শারীরিক ও যৌন নিপীড়ন",
+      "explanation": "দিল্লিতে আটক বিক্ষোভকারীরা তাদের বিরুদ্ধে যৌন ও শারীরিক নির্যাতনের শিকার হওয়ার অভিজ্ঞতা প্রকাশ করেছেন।",
+      "source": "বিবিসি বাংলা",
+      "sourceUrl": "https://www.bbc.com/bengali/articles/cq78p72y1nyxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 15,
+      "category": "আন্তর্জাতিক বিষয়াবলি",
+      "question": "হুথি (Houthi) কোন দেশের একটি সশস্ত্র গোষ্ঠী?",
+      "options": [
+        "ক) সৌদি আরব",
+        "খ) ইয়েমেন",
+        "গ) সিরিয়া",
+        "ঘের। ইরাক"
+      ],
+      "answer": "খ) ইয়েমেন",
+      "explanation": "হুথি হলো ইয়েমেনের একটি শক্তিশালী সশস্ত্র ও রাজনৈতিক গোষ্ঠী।",
+      "source": "বিবিসি বাংলা",
+      "sourceUrl": "https://www.bbc.co.uk/bengali/live/cw07315ejj93t?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 16,
+      "category": "সামাজিক সমস্যা",
+      "question": "চট্টগ্রাম বিশ্ববিদ্যালয়ের যৌন নিপীড়ন ঘটনায় কাদের বিরুদ্ধে আঙুল তোলা হয়েছে?",
+      "options": [
+        "ক) শিক্ষক",
+        "খ) স্থানীয় ছাত্রনেতা (BCL)",
+        "গ) বহিরাগত",
+        "ঘের। পুলিশ"
+      ],
+      "answer": "খ) স্থানীয় ছাত্রনেতা (BCL)",
+      "explanation": "চট্টগ্রাম বিশ্ববিদ্যালয়ের যৌন নিপীড়ন ঘটনায় বিসিএল (BCL) সদস্যদের বিরুদ্ধে অভিযোগ উঠেছে।",
       "source": "ডেইলি স্টার",
-      "sourceUrl": "https://www.thedailystar.net/rohingya-influx/news/rohingya-genocide-case-proceed-3076971"
+      "sourceUrl": "https://www.thedailystar.net/news/bangladesh/crime-justice/news/cu-sexual-assault-fingers-pointed-at-bcl-men-3076216"
+    },
+    {
+      "id": 17,
+      "category": "রাজনীতি ও অপরাধ",
+      "question": "সাতক্ষীরায় যুবককে পিটিয়ে হত্যার ঘটনায় কার ক্ষোভ প্রকাশ পেয়েছে?",
+      "options": [
+        "ক) কেবল স্থানীয় জনগণ",
+        "খ) রাজনৈতিক দল ও মানবাধিকার সংস্থা",
+        "গ) বিদেশি সরকার",
+        "ঘের। জাতিসংঘ"
+      ],
+      "answer": "খ) রাজনৈতিক দল ও মানবাধিকার সংস্থা",
+      "explanation": "সাতক্ষীরায় যুবককে পিটিয়ে হত্যার ঘটনায় রাজনৈতিক দল এবং মানবাধিকার সংস্থাগুলো তীব্র ক্ষোভ প্রকাশ করেছে।",
+      "source": "প্রথম আলো",
+      "sourceUrl": "https://www.prothomalo.com/politics/h3dmq9t5tn"
+    },
+    {
+      "id": 18,
+      "category": "শিক্ষা",
+      "question": "শিক্ষার মানোন্নয়ন ও উপস্থিতি বৃদ্ধিতে কোন ধরনের কার্যক্রম অনুষ্ঠিত হয়েছে?",
+      "options": [
+        "ক) শিক্ষক প্রশিক্ষণ",
+        "খ) অভিভাবক সমাবেশ",
+        "গ) ছাত্র সমাবেশ",
+        "ঘের। সরকারি প্রকল্প"
+      ],
+      "answer": "খ) অভিভাবক সমাবেশ",
+      "explanation": "শিক্ষার মানোন্নয়ন এবং শিক্ষার্থীদের উপস্থিতি নিশ্চিত করতে অভিভাবক সমাবেশ আয়োজন করা হয়েছে।",
+      "source": "প্রথম আলো",
+      "sourceUrl": "https://trust.prothomalo.com/activities/alor-school/3mkrbpin0s"
+    },
+    {
+      "id": 19,
+      "category": "আন্তর্জাতিক বিষয়াবলি",
+      "question": "পেশোয়ারের স্কুল দুর্ঘটনার ফলে কতজন শিশু নিহত হয়েছে?",
+      "options": [
+        "ক) ২০ জন",
+        "খ) ২৫ জন",
+        "গ) ৩৩ জন",
+        "ঘের। ৪০ জন"
+      ],
+      "answer": "গ) ৩৩ জন",
+      "explanation": "পেশোয়ারের স্কুল ছাদ ধসে ৩৩ জন শিশু ও একজন শিক্ষক প্রাণ হারিয়েছেন।",
+      "source": "বিবিসি বাংলা",
+      "sourceUrl": "https://www.bbc.com/bengali/articles/cq2031p56nejo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 20,
+      "category": "আইন ও বিচার",
+      "question": "প্রশ্নপত্র ফাঁসকাণ্ডে কারাদণ্ডপ্রাপ্ত আবেদ আলীর ছেলের অপরাধটি কী ছিল?",
+      "options": [
+        "ক) চুরি",
+        "খ) প্রশ্নপত্র ফাঁস",
+        "গ) মাদক ব্যবসা",
+        "ঘের। মারামারি"
+      ],
+      "answer": "খ) প্রশ্নপত্র ফাঁস",
+      "explanation": "আবেদ আলীর ছেলে প্রশ্নপত্র ফাঁসকাণ্ডে জড়িত থাকার অপরাধে ৪ বছরের কারাদণ্ড পেয়েছেন।",
+      "source": "প্রথম আলো",
+      "sourceUrl": "https://www.prothomalo.com/video/bangladesh/qe70iea6s5"
     }
   ],
   "vocabulary": [
     {
       "word": "Genocide",
-      "bangla": "গণহত্যা / কোনো নির্দিষ্ট জনগোষ্ঠীকে সমূলে ধ্বংসকরণ",
+      "bangla": "গণহত্যা",
       "pronunciation": "জেনোসাইড",
-      "example": "The ICJ agreed that it has jurisdiction to hear the Rohingya genocide case."
+      "example": "The international community discussed the Rohingya genocide."
     },
     {
       "word": "Conquer",
-      "bangla": "জয় করা / পরাভূত করা",
+      "bangla": "জয় করা",
       "pronunciation": "কনকার",
-      "example": "Wasfia became the first Bangladeshi mountaineer to conquer the treacherous K2 summit."
+      "example": "Wasfia was the first Bangladeshi to conquer K2."
     },
     {
-      "word": "Infrastructure",
-      "bangla": "অবকাঠামো",
-      "pronunciation": "ইনফ্রাস্ট্রাকচার",
-      "example": "Bangladeshi IT firms are successfully building digital infrastructure for overseas governments."
+      "word": "Stipend",
+      "bangla": "বৃত্তি/ভাতা",
+      "pronunciation": "স্টাইপেন্ড",
+      "example": "Students in the US can receive a monthly stipend through assistantships."
     },
     {
-      "word": "Molestation",
-      "bangla": "যৌন নিপীড়ন / শ্লীলতাহানি",
-      "pronunciation": "মোলেস্টেশন",
-      "example": "The university authorities took strict action following allegations of molestation."
+      "word": "Assistantship",
+      "bangla": "সহকারী পদ/পদমর্যাদা",
+      "pronunciation": "অ্যাসিস্ট্যান্টশিপ",
+      "example": "He secured a research assistantship at the university."
     },
     {
-      "word": "Jurisdiction",
-      "bangla": "এখতিয়ার / বিচারিক ক্ষমতা",
-      "pronunciation": "জুরিসডিকশন",
-      "example": "The court ruled that the matter falls squarely under its international jurisdiction."
+      "word": "Missile",
+      "bangla": "ক্ষেপণাস্ত্র",
+      "pronunciation": "মিসাইল",
+      "example": "The missile was intercepted by the defense system."
     },
     {
-      "word": "Dowry",
-      "bangla": "যৌতুক",
-      "pronunciation": "ডাউরি",
-      "example": "Bombay was given to the British Crown as part of the royal dowry from Portugal."
+      "word": "Assess",
+      "bangla": "মূল্যায়ন করা",
+      "pronunciation": "অ্যাসেস",
+      "example": "Experts need time to assess the situation."
     },
     {
-      "word": "Vandalism",
-      "bangla": "জনসম্পদ বা সম্পত্তির অযৌক্তিক ধ্বংসসাধন",
-      "pronunciation": "ভ্যান্ডালিজম",
-      "example": "The mob engaged in violent acts and vandalism before police intervened."
+      "word": "Assault",
+      "bangla": "আক্রমণ/ধর্ষণ",
+      "pronunciation": "অ্যাসল্ট",
+      "example": "The university administration is investigating the sexual assault case."
     },
     {
-      "word": "Endemic",
-      "bangla": "স্থানিক রোগ / নির্দিষ্ট অঞ্চলে সীমাবদ্ধ রোগ",
-      "pronunciation": "এনডেমিক",
-      "example": "Dengue fever has virtually become endemic in several tropical metropolitan areas."
+      "word": "Explosive",
+      "bangla": "বিস্ফোরক",
+      "pronunciation": "এক্সপ্লোসিভ",
+      "explanation": "His explosive comments surprised everyone.",
+      "example": "The politician made explosive remarks during the interview."
     },
     {
-      "word": "Unanimous",
-      "bangla": "সর্বসম্মত",
-      "pronunciation": "ইউন্যানিমাস",
-      "example": "The decision to suspend the relocation proposal was passed by a unanimous vote."
+      "word": "Identify",
+      "bangla": "শনাক্ত করা",
+      "pronunciation": "আইডেন্টিফাই",
+      "example": "The administration has identified the molesters."
     },
     {
-      "word": "Perpetrator",
-      "bangla": "অপরাধী / অপকর্মকারী",
-      "pronunciation": "পারপেট্রেটর",
-      "example": "Law enforcement agencies are determined to bring every perpetrator of violence to book."
+      "word": "Involvement",
+      "bangla": "সংশ্লিষ্টতা/জড়িত থাকা",
+      "pronunciation": "ইনভলভমেন্ট",
+      "example": "There are allegations of political involvement in the crime."
     }
   ]
 }
