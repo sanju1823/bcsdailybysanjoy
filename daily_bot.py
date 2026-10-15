@@ -1,126 +1,101 @@
 import feedparser
 import json
 import os
-import time
-from google import genai
+import google.generativeai as genai
 from datetime import datetime
 import pytz
+import re
 
-# 1. Gemini API Key - GitHub Secret theke asbe
+# 1. API Key check
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 if not GEMINI_API_KEY:
-    raise ValueError("GEMINI_API_KEY not found!")
+    print("❌ GEMINI_API_KEY pai nai! GitHub Secrets e add koro")
+    exit(1)
 
-client = genai.Client(api_key=GEMINI_API_KEY)
+genai.configure(api_key=GEMINI_API_KEY)
+# 2.0-flash stable, 1.5-flash majhe majhe 404 dey
+model = genai.GenerativeModel("gemini-2.0-flash")
 
-# 2. Potrika RSS theke news newa
 RSS_FEEDS = {
     "প্রথম আলো": "https://www.prothomalo.com/feed/",
     "ডেইলি স্টার": "https://www.thedailystar.net/frontpage/rss.xml",
     "যুগান্তর": "https://www.jugantor.com/feed/",
-    "বিবিসি বাংলা": "https://www.bbc.com/bengali/index.xml"
+    "বিবিসি বাংলা": "https://feeds.bbci.co.uk/bengali/rss.xml"
 }
 
 print("Fetching news...")
+news_items = []
 news_text = ""
 for name, url in RSS_FEEDS.items():
     try:
         feed = feedparser.parse(url)
+        if not feed.entries:
+            print(f"⚠️ {name} khali")
+            continue
         for entry in feed.entries[:7]:
-            news_text += f"- {name}: {entry.title}\n"
+            title = entry.title.strip()
+            link = entry.link
+            news_items.append({"source": name, "title": title, "link": link})
+            news_text += f"- [{name}] {title} | Link: {link}\n"
     except Exception as e:
-        print(f"Failed {name}: {e}")
+        print(f"❌ {name} error: {e}")
         continue
 
-if not news_text.strip():
-    news_text = "Recent Bangladesh and international news for BCS preparation - Bangladesh economy, constitution, science, international affairs"
+if len(news_items) < 5:
+    print("❌ News kom, exit")
+    exit(1)
 
-# 3. AI diye 20 MCQ + 10 Vocab banano
 bd_time = datetime.now(pytz.timezone('Asia/Dhaka'))
 today_str = bd_time.strftime("%d %B %Y")
+today_iso = bd_time.strftime("%Y-%m-%d")
 
 prompt = f"""
 Tumi ekjon BCS expert. Ajker tarikh {today_str}.
-Nicher news gulo theke BCS er jonno 20 ta samprotik proshno banaw:
+Nicher news gulo theke BCS er jonno 20 ta samprotik MCQ banaw. Prottek proshno er sourceUrl e NICHER DEYA ASOL LINK TAI USE KORBA, fake link banaba na.
 
+NEWS LIST:
 {news_text}
 
-Format JSON e hobe:
+Format JSON e hobe, sudhu JSON:
 {{
   "date": "{today_str}",
-  "questions": [
-    {{
-      "id": 1,
-      "category": "সংবিধান / অর্থনীতি / বিজ্ঞান / আন্তর্জাতিক / ভূগোল / যোগাযোগ / ICT er jekono ekta",
-      "question": "Proshno Bangla te",
-      "options": ["ক) ...", "খ) ...", "গ) ...", "ঘ) ..."],
-      "answer": "ক) ...",
-      "explanation": "2 line bekkha Bangla te",
-      "source": "【entity-Prothom Alo¦canonical_name=Prothom Alo】 / 【entity-Daily Star¦canonical_name=Daily Star】"
-    }}
-  ],
-  "vocabulary": [
-    {{
-      "word": "English word",
-      "bangla": "বাংলা অর্থ",
-      "pronunciation": "pronunciation",
-      "example": "English example with Bangla translation"
-    }}
-  ]
+  "questions": [ {{ "id": 1, "category": "সংবিধান", "question": "...", "options": ["ক) ...", "খ) ...", "গ) ...", "ঘ) ..."], "answer": "ক) ...", "explanation": "2 line", "source": "প্রথম আলো", "sourceUrl": "asol link" }} ],
+  "vocabulary": [ {{ "word": "word", "bangla": "অর্থ", "pronunciation": "...", "example": "..." }} ]
 }}
-20 ta question + 10 ta vocabulary must. Shob Bangla te, source soho. Valid JSON only, no extra text.
+Rules: 20 question + 10 vocab must, sourceUrl e uporer asol link diba, valid JSON only
 """
 
-print("Generating with Gemini (with fallback)...")
+print("\nGenerating with Gemini...")
+try:
+    response = model.generate_content(prompt)
+    raw_text = response.text
+except Exception as e:
+    print(f"❌ Gemini API error: {e}")
+    exit(1)
 
-models_to_try = ["gemini-3.8-flash", "gemini-3.5-flash", "gemini-2.5-flash", "gemini-flash-latest", "gemini-2.0-flash"]
+clean_json = raw_text.replace("```json", "").replace("```", "").strip()
+m = re.search(r'\{.*\}', clean_json, re.DOTALL)
+if m:
+    clean_json = m.group(0)
 
-response = None
-last_error = None
-
-for model_name in models_to_try:
-    try:
-        print(f"Trying model: {model_name}...")
-        response = client.models.generate_content(
-            model=model_name,
-            contents=prompt
-        )
-        print(f"Success with {model_name}")
-        break
-    except Exception as e:
-        print(f"Failed {model_name}: {e}")
-        last_error = e
-        time.sleep(2)
-        continue
-
-if response is None:
-    raise Exception(f"All Gemini models are busy. Last error: {last_error}")
-
-clean_json = response.text.replace("```json", "").replace("```", "").strip()
-
-# 4. data.json save kora
 try:
     data = json.loads(clean_json)
 except Exception as e:
-    print(f"JSON parse error: {e}")
-    print(f"Raw response: {clean_json[:500]}")
-    raise
+    print(f"❌ JSON parse failed: {e}")
+    print(clean_json[:1000])
+    with open("gemini_raw.txt", "w", encoding="utf-8") as f:
+        f.write(raw_text)
+    exit(1)
 
 with open("data.json", "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
 
-# 5. sitemap.xml er lastmod update
-sitemap_content = f'''<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://bcsdailybysanjoy.netlify.app/</loc>
-    <lastmod>{bd_time.strftime("%Y-%m-%d")}</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-</urlset>'''
+print(f"✅ Done! {len(data.get('questions', []))} Q saved")
+
+# sitemap update - choto hater e
+sitemap_content = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n  <url>\n    <loc>https://bcsdailybysanjoy.netlify.app/</loc>\n    <lastmod>' + today_iso + '</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>1.0</priority>\n  </url>\n  <url>\n    <loc>https://bcsdailybysanjoy.netlify.app/archive/</loc>\n    <lastmod>' + today_iso + '</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.8</priority>\n  </url>\n</urlset>'
 
 with open("sitemap.xml", "w", encoding="utf-8") as f:
     f.write(sitemap_content)
 
-print(f"Done! {len(data.get('questions', []))} questions generated for {today_str}")
+print("✅ sitemap.xml updated")
