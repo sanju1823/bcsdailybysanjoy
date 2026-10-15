@@ -17,7 +17,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install feedparser google-genai pytz
+        run: pip install -U feedparser google-genai pytz
 
       - name: Run Daily Bot
         env:
