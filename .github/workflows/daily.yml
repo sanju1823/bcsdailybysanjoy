@@ -23,7 +23,7 @@ jobs:
       - name: Run Daily Bot
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python Daily-Bot.py
+        run: python daily_bot.py
 
       - name: Commit and push if changed
         run: |
