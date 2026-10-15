@@ -2,15 +2,14 @@ name: Daily BCS Update
 
 on:
   schedule:
-    - cron: '0 1 * * *'  # BD sokal 7ta = UTC rat 1ta
+    - cron: '0 1 * * *'
   workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -18,7 +17,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install feedparser google-generativeai pytz
+        run: pip install feedparser google-genai pytz
 
       - name: Run Daily Bot
         env:
