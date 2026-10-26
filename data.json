@@ -1,130 +1,115 @@
 {
-  "date": "25 October 2026",
+  "date": "26 October 2026",
   "questions": [
     {
       "id": 1,
-      "category": "পরিবেশ",
-      "question": "সম্প্রতি আলোচিত 'চালমুগরা' উদ্ভিদটি বর্তমানে কোন অবস্থায় রয়েছে?",
+      "category": "বাংলাদেশ বিষয়াবলি",
+      "question": "২০২৭ শিক্ষাবর্ষে নবম-দশম শ্রেণির বাংলা সাহিত্য বইয়ে কার ‘স্বাধীনতাযুদ্ধের স্মৃতি’ প্রবন্ধটি অন্তর্ভুক্ত করা হচ্ছে?",
       "options": [
-        "ক) বিলুপ্ত",
-        "খ) মহাবিপন্ন",
-        "গ) সংরক্ষিত",
-        "ঘ) বহুল প্রচলিত"
+        "ক) শেখ মুজিবুর রহমান",
+        "খ) জিয়াউর রহমান",
+        "গ) তাজউদ্দীন আহমদ",
+        "ঘ) এম এ হান্নান"
       ],
-      "answer": "খ) মহাবিপন্ন",
-      "explanation": "খবর অনুযায়ী, চালমুগরা একটি মহাবিপন্ন উদ্ভিদ হলেও এটি চমৎকার ঔষধি গুণসম্পন্ন। BCS এর জন্য মহাবিপন্ন ও বিলুপ্তপ্রায় উদ্ভিদ সম্পর্কে জ্ঞান থাকা আবশ্যক।",
+      "answer": "খ) জিয়াউর রহমান",
+      "explanation": "সাবেক রাষ্ট্রপতি জিয়াউর রহমানের 'স্বাধীনতাযুদ্ধের স্মৃতি' প্রবন্ধটি ২০২৭ শিক্ষাবর্ষের নবম-দশম শ্রেণির পাঠ্যবইয়ে যুক্ত হচ্ছে।",
       "source": "প্রথম আলো",
-      "sourceUrl": "https://www.prothomalo.com/bangladesh/environment/wt4eyf6y2r"
+      "sourceUrl": "https://www.prothomalo.com/bangladesh/fxik8ubx5b"
     },
     {
       "id": 2,
-      "category": "বাংলাদেশ বিষয়াবলি",
-      "question": "জাতীয় জরিপের উপাত্ত অনুযায়ী, দরিদ্র পরিবারের তুলনায় ধনী পরিবারের শিশুদের রক্তে সিসার (Lead) উচ্চমাত্রার হার কত শতাংশ বেশি?",
+      "category": "আন্তর্জাতিক বিষয়াবলি",
+      "question": "সম্প্রতি কোন দেশের প্রেসিডেন্ট হিসেবে লুলা ডা সিলভা জয়ী হয়েছেন?",
       "options": [
-        "ক) ১৫.৫ শতাংশ",
-        "খ) ২০.২ শতাংশ",
-        "গ) ২১.৭ শতাংশ",
-        "ঘ) ২৫.০ শতাংশ"
+        "ক) আর্জেন্টিনা",
+        "খ) ব্রাজিল",
+        "গ) চিলি",
+        "ঘ) কলম্বিয়া"
       ],
-      "answer": "গ) ২১.৭ শতাংশ",
-      "explanation": "জরিপের তথ্যমতে, ধনী পরিবারের শিশুদের রক্তে সিসার পরিমাণ দরিদ্রদের তুলনায় ২১.৭ শতাংশ বেশি। স্বাস্থ্য ও জনস্বাস্থ্য বিষয়ক তথ্য BCS-এর জন্য গুরুত্বপূর্ণ।",
-      "source": "প্রথম আলো",
-      "sourceUrl": "https://www.prothomalo.com/bangladesh/sacpnht4r7"
+      "answer": "খ) ব্রাজিল",
+      "explanation": "লুলা ডা সিলভা ব্রাজিলের প্রেসিডেন্ট হিসেবে নির্বাচিত হয়েছেন। ব্রাজিল লাতিন আমেরিকার একটি বৃহৎ দেশ।",
+      "source": "বিবিসি বাংলা",
+      "sourceUrl": "https://www.bbc.com/bengali/articles/cqlye383181do?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": 3,
       "category": "আন্তর্জাতিক বিষয়াবলি",
-      "question": "রোহিঙ্গা গণহত্যা সংক্রান্ত মামলায় মিয়ানমারের আপত্তি প্রত্যাখ্যান করে পূর্ণাঙ্গ শুনানির পথ প্রশস্ত করেছে কোন আদালত?",
+      "question": "রোহিঙ্গা গণহত্যা সংক্রান্ত মামলাটি কোন আন্তর্জাতিক আদালতে বিচারাধীন রয়েছে?",
       "options": [
-        "ক) আন্তর্জাতিক অপরাধ আদালত (ICC)",
-        "খ) আন্তর্জাতিক বিচার আদালত (ICJ)",
-        "গ) জাতিসংঘ নিরাপত্তা পরিষদ",
-        "ঘ) ইউরোপীয় আদালত"
+        "ক) আইসিসি (ICC)",
+        "খ) আইসিজে (ICJ)",
+        "গ) ইউনেস্কো (UNESCO)",
+        "ঘ) জাতিসংঘ নিরাপত্তা পরিষদ"
       ],
-      "answer": "খ) আন্তর্জাতিক বিচার আদালত (ICJ)",
-      "explanation": "বিশ্ব আদালত (World Court) বা ICJ মিয়ানমারের আপত্তি প্রত্যাখ্যান করেছে। ICJ-এর সদর দপ্তর নেদারল্যান্ডসের হেগ-এ অবস্থিত।",
+      "answer": "খ) আইসিজে (ICJ)",
+      "explanation": "রোহিঙ্গা গণহত্যার মামলাটি আন্তর্জাতিক আদালতের (World Court/ICJ) মাধ্যমে অগ্রসর হচ্ছে। ICJ হলো জাতিসংঘের প্রধান বিচার বিভাগীয় অঙ্গ।",
       "source": "ডেইলি স্টার",
       "sourceUrl": "https://www.thedailystar.net/rohingya-influx/news/rohingya-genocide-case-proceed-3076971"
     },
     {
       "id": 4,
       "category": "খেলাধুলা",
-      "question": "কে-২ (K2) শৃঙ্গ জয় করা প্রথম বাংলাদেশী পর্বতারোহী কে?",
+      "question": "কে বিশ্বের দ্বিতীয় উচ্চতম শৃঙ্গ K2 জয়ী প্রথম বাংলাদেশী?",
       "options": [
-        "ক) মুসা ইব্রাহিম",
-        "খ) নিশাত মজুমদার",
-        "গ) ওয়াসফিয়া নাজরীন",
-        "ঘ) ফারুক আহমেদ"
+        "ক) ওয়াসফিয়া নাজরিন",
+        "খ) মিতা পাল",
+        "গ) আরিফা পারভীন",
+        "ঘ) নুসরাত জাহান"
       ],
-      "answer": "গ) ওয়াসফিয়া নাজরীন",
-      "explanation": "ওয়াসফিয়া নাজরীন বিশ্বের দ্বিতীয় সর্বোচ্চ শৃঙ্গ K2 জয় করা প্রথম বাংলাদেশী। জাতীয় অর্জন হিসেবে এটি অত্যন্ত গুরুত্বপূর্ণ।",
+      "answer": "ক) ওয়াসফিয়া নাজরিন",
+      "explanation": "বাংলাদেশের পর্বতারোহী ওয়াসফিয়া নাজরিন পাকিস্তানের K2 শৃঙ্গ জয়ী প্রথম বাংলাদেশী হয়েছেন।",
       "source": "ডেইলি স্টার",
       "sourceUrl": "https://www.thedailystar.net/news/bangladesh/news/wasfia-first-bangladeshi-conquer-k2-3076981"
     },
     {
       "id": 5,
-      "category": "আন্তর্জাতিক বিষয়াবলি",
-      "question": "ফ্রান্সের সাম্প্রতিক গণবিক্ষোভে কতজন মানুষের অংশগ্রহণের দাবি শ্রমিক ইউনিয়নগুলো করেছে?",
+      "category": "পরিবেশ",
+      "question": "সম্প্রতি বঙ্গোপসাগরে সৃষ্ট নিম্নচাপটি কোন প্রাকৃতিক দুর্যোগে পরিণত হওয়ার পূর্বাভাস দেওয়া হয়েছে?",
       "options": [
-        "ক) ৪ লাখ ১০ হাজার",
-        "খ) ৫ লাখ",
-        "গ) ৬ লাখ",
-        "ঘ) ৮ লাখ"
+        "ক) সুনামির",
+        "খ) ঘূর্ণিঝড়ে",
+        "গ) খরার",
+        "ঘ) বন্যায়"
       ],
-      "answer": "ঘ) ৮ লাখ",
-      "explanation": "ফ্রান্সের স্বরাষ্ট্র মন্ত্রণালয় ৪ লাখ ১০ হাজার মানুষের কথা বললেও শ্রমিক ইউনিয়নগুলোর দাবি ছিল প্রায় ৮ লাখ মানুষ অংশ নিয়েছে।",
+      "answer": "খ) ঘূর্ণিঝড়ে",
+      "explanation": "আবহাওয়া বিভাগের পূর্বাভাস অনুযায়ী, বঙ্গোপসাগরে অবস্থানরত নিম্নচাপটি ঘনীভূত হয়ে ঘূর্ণিঝড়ে পরিণত হতে পারে।",
       "source": "বিবিসি বাংলা",
-      "sourceUrl": "https://www.bbc.com/bengali/articles/ckp8g2yd7605o?at_medium=RSS&at_campaign=rss"
+      "sourceUrl": "https://www.bbc.co.uk/bengali/live/cx98zpj6me8gt?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": 6,
-      "category": "সংবিধান ও রাজনীতি",
-      "question": "তত্ত্বাবধায়ক সরকার গঠনের নতুন ধারণা এবং সংবিধান সংশোধন সম্পর্কিত বিশেষ কমিটির বৈঠকটি কোন দেশের প্রেক্ষাপটে আলোচিত?",
+      "category": "বিজ্ঞান ও প্রযুক্তি",
+      "question": "বাংলাদেশে রাসেলস ভাইপারের অ্যান্টিভেনম বা প্রতিষেধক তৈরির কাজ করছে কোন প্রতিষ্ঠান?",
       "options": [
-        "ক) ভারত",
-        "খ) বাংলাদেশ",
-        "গ) পাকিস্তান",
-        "ঘ) শ্রীলঙ্কা"
+        "ক) icddr,b",
+        "খ) ভেনম রিসার্চ সেন্টার",
+        "গ) বিসিএসআইআর (BCSIR)",
+        "ঘ) আইইডি (IED)"
       ],
-      "answer": "খ) বাংলাদেশ",
-      "explanation": "সংবিধান সংশোধন সম্পর্কিত বিশেষ কমিটির বৈঠক এবং তত্ত্বাবধায়ক সরকার সংক্রান্ত খবরটি বাংলাদেশের প্রেক্ষাপটে গুরুত্বপূর্ণ।",
+      "answer": "খ) ভেনম রিসার্চ সেন্টার",
+      "explanation": "বাংলাদেশের ভেনম রিসার্চ সেন্টার রাসেলস ভাইপারের অ্যান্টিভেনম তৈরির গুরুত্বপূর্ণ পর্যায়ে অ্যান্টিবডি উৎপাদনের কাজ সম্পন্ন করেছে।",
       "source": "বিবিসি বাংলা",
-      "sourceUrl": "https://www.bbc.com/bengali/articles/cx7vp0d3z5q8o?at_medium=RSS&at_campaign=rss"
+      "sourceUrl": "https://www.bbc.com/bengali/articles/c70gleqrnljo?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": 7,
-      "category": "আন্তর্জাতিক বিষয়াবলি",
-      "question": "ইংল্যান্ডের প্রথম রাজা হিসেবে অ্যাথেলস্ট্যানের (Athelstan) অভিষেকের কত বছর পূর্ণ হয়েছে?",
+      "category": "সংবিধান ও রাজনীতি",
+      "question": "বাংলাদেশের বিদ্যুৎ, জ্বালানি ও খনিজ সম্পদ বিষয়ক বর্তমান প্রতিমন্ত্রী কে?",
       "options": [
-        "ক) ৮০০ বছর",
-        "খ) ৯০০ বছর",
-        "গ) ১০০০ বছর",
-        "ঘ) ১১০০ বছর"
-      ],
-      "answer": "ঘ) ১১০০ বছর",
-      "explanation": "ইংল্যান্ডের প্রথম রাজা অ্যাথেলস্ট্যানের অভিষেকের ১১০০ বছর পূর্ণ হয়েছে। ইউরোপীয় ইতিহাস BCS-এর জন্য প্রাসঙ্গিক।",
-      "source": "বিবিসি বাংলা",
-      "sourceUrl": "https://www.bbc.com/bengali/articles/ckz7x91znjx9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": 8,
-      "category": "বাংলাদেশ বিষয়াবলি",
-      "question": "বর্তমানে বাংলাদেশের বিদ্যুৎ, জ্বালানি ও খনিজ সম্পদ বিষয়ক প্রতিমন্ত্রী হিসেবে কে দায়িত্ব পালন করছেন?",
-      "options": [
-        "ক) অখন্দ হোসেন",
+        "ক) আসাদুজ্জামান খান",
         "খ) নাসরুল হামিদ",
-        "গ) আমানুর রহমান",
-        "ঘ कदम আকন্দ"
+        "গ) তৌহিদ হোসেন",
+        "ঘ) আকতার হোসেন"
       ],
       "answer": "খ) নাসরুল হামিদ",
-      "explanation": "নাসরুল হামিদ বর্তমানে বিদ্যুৎ, জ্বালানি ও খনিজ সম্পদ বিষয়ক প্রতিমন্ত্রী।",
+      "explanation": "নাসরুল হামিদ বিদ্যুৎ, জ্বালানি ও খনিজ সম্পদ বিষয়ক প্রতিমন্ত্রী হিসেবে দায়িত্ব পালন করছেন।",
       "source": "ডেইলি স্টার",
       "sourceUrl": "https://www.thedailystar.net/news/bangladesh/news/need-1-week-assess-situation-3076976"
     },
     {
-      "id": 9,
-      "category": "ভূগোল",
-      "question": "বিশ্বের দ্বিতীয় সর্বোচ্চ পর্বতশৃঙ্গ K2 কোন দেশে অবস্থিত?",
+      "id": 8,
+      "category": "আন্তর্জাতিক বিষয়াবলি",
+      "question": "K2 পর্বতশৃঙ্গটি কোন দেশে অবস্থিত?",
       "options": [
         "ক) নেপাল",
         "খ) চীন",
@@ -137,169 +122,184 @@
       "sourceUrl": "https://www.thedailystar.net/news/bangladesh/news/wasfia-first-bangladeshi-conquer-k2-3076981"
     },
     {
-      "id": 10,
+      "id": 9,
       "category": "বিজ্ঞান ও প্রযুক্তি",
-      "question": "কোন উদ্ভিদটি বিচিত্র রোগে মহৌষধ হিসেবে কাজ করার ক্ষমতা রাখে?",
+      "question": "রাসেলস ভাইপার (Russell's Viper) কোন শ্রেণীর প্রাণীর অন্তর্ভুক্ত?",
       "options": [
-        "ক) নিম",
-        "খ) চালমুগরা",
-        "গ) তুলসী",
-        "ঘ) অ্যালোভেরা"
+        "ক) উভচর",
+        "খ) সরীসৃপ",
+        "গ) স্তন্যপায়ী",
+        "ঘ"
       ],
-      "answer": "খ) চালমুগরা",
-      "explanation": "চালমুগরা মহাবিপন্ন হলেও এটি চমৎকার ঔষধি গুণসম্পন্ন এবং বিচিত্র রোগে মহৌষধ হিসেবে কাজ করে।",
-      "source": "প্রথম আলো",
-      "sourceUrl": "https://www.prothomalo.com/bangladesh/environment/wt4eyf6y2r"
+      "answer": "খ) সরীসৃপ",
+      "explanation": "রাসেলস ভাইপার একটি অত্যন্ত বিষধর সাপ যা সরীসৃপ শ্রেণির অন্তর্ভুক্ত।",
+      "source": "বিবিসি বাংলা",
+      "sourceUrl": "https://www.bbc.com/bengali/articles/c70gleqrnljo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 10,
+      "category": "আন্তর্জাতিক বিষয়াবলি",
+      "question": "ব্রাজিল কোন মহাদেশে অবস্থিত?",
+      "options": [
+        "ক) উত্তর আমেরিকা",
+        "খ) দক্ষিণ আমেরিকা",
+        "গ) আফ্রিকা",
+        "ঘ) ইউরোপ"
+      ],
+      "answer": "খ) দক্ষিণ আমেরিকা",
+      "explanation": "ব্রাজিল দক্ষিণ আমেরিকা মহাদেশের বৃহত্তম দেশ।",
+      "source": "বিবিসি বাংলা",
+      "sourceUrl": "https://www.bbc.com/bengali/articles/cqlye383181do?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": 11,
-      "category": "সংবিধান ও রাজনীতি",
-      "question": "বাংলাদেশে তত্ত্বাবধায়ক সরকার ব্যবস্থা বিলুপ্ত করার জন্য সংবিধানের কততম সংশোধনী আনা হয়েছিল?",
+      "category": "আন্তর্জাতিক বিষয়াবলি",
+      "question": "জাতিসংঘের নিরাপত্তা পরিষদের স্থায়ী সদস্য সংখ্যা কয়টি?",
       "options": [
-        "ক) ১৩তম",
-        "খ) ১৪তম",
-        "গ) ১৫তম",
-        "ঘ) ১৬তম"
+        "ক) ৫টি",
+        "খ) ১০টি",
+        "গ) ১৫টি",
+        "ঘ) ২০টি"
       ],
-      "answer": "গ) ১৫তম",
-      "explanation": "সংবিধানের ১৫তম সংশোধনীর মাধ্যমে তত্ত্বাবধায়ক সরকার ব্যবস্থা বাতিল করা হয়েছিল। এটি একটি অত্যন্ত গুরুত্বপূর্ণ রাজনৈতিক তথ্য।",
-      "source": "বিবিসি বাংলা",
-      "sourceUrl": "https://www.bbc.com/bengali/articles/cx7vp0d3z5q8o?at_medium=RSS&at_campaign=rss"
+      "answer": "ক) ৫টি",
+      "explanation": "জাতিসংঘ নিরাপত্তা পরিষদের ৫টি স্থায়ী সদস্য রয়েছে: যুক্তরাষ্ট্র, যুক্তরাজ্য, ফ্রান্স, রাশিয়া ও চীন।",
+      "source": "General Knowledge",
+      "sourceUrl": "N/A"
     },
     {
       "id": 12,
-      "category": "আন্তর্জাতিক বিষয়াবলি",
-      "question": "আন্তর্জাতিক বিচার আদালত (ICJ) কোন দেশে অবস্থিত?",
+      "category": "বাংলাদেশ বিষয়াবলি",
+      "question": "বাংলাদেশের সংবিধান অনুযায়ী মৌলিক অধিকার কোন অনুচ্ছেদে বর্ণিত হয়েছে?",
       "options": [
-        "ক) সুইজারল্যান্ড",
-        "খ) ফ্রান্স",
-        "গ) নেদারল্যান্ডস",
-        "ঘ) বেলজিয়াম"
+        "ক) ১-১০",
+        "খ) ১১-২৭",
+        "গ) ২৬-৪৭",
+        "ঘ) ৪৮-৬০"
       ],
-      "answer": "গ) নেদারল্যান্ডস",
-      "explanation": "ICJ বা আন্তর্জাতিক বিচার আদালত নেদারল্যান্ডসের দ্য হেগ (The Hague) শহরে অবস্থিত।",
-      "source": "ডেইলি স্টার",
-      "sourceUrl": "https://www.thedailystar.net/rohingya-influx/news/rohingya-genocide-case-proceed-3076971"
+      "answer": "গ) ২৬-৪৭",
+      "explanation": "বাংলাদেশের সংবিধানের ২৬ থেকে ৪৭ নম্বর অনুচ্ছেদে নাগরিকদের মৌলিক অধিকারের কথা বলা হয়েছে।",
+      "source": "General Knowledge",
+      "sourceUrl": "N/A"
     },
     {
       "id": 13,
-      "category": "বাংলাদেশ বিষয়াবলি",
-      "question": "শিশুদের মানসিক সুস্থতার বিষয়ে সম্প্রতি কোন ধরনের গুরুত্ব প্রদানের কথা বলা হয়েছে?",
+      "category": "অর্থনীতি",
+      "question": "জিডিপি (GDP) এর পূর্ণরূপ কী?",
       "options": [
-        "ক) শারীরিক বৃদ্ধি",
-        "খ) মানসিক সুস্থতা",
-        "গ) শিক্ষা",
-        "ঘ) পুষ্টি"
+        "ক) Gross Domestic Product",
+        "খ) Gross Development Product",
+        "গ) General Domestic Product",
+        "ঘ) Gross Deposit Product"
       ],
-      "answer": "খ) মানসিক সুস্থতা",
-      "explanation": "শিশুদের সামগ্রিক বিকাশের জন্য মানসিক সুস্থতার প্রতি সমান নজর দেওয়ার প্রয়োজনীয়তা অত্যন্ত জরুরি।",
-      "source": "প্রথম আলো",
-      "sourceUrl": "https://trust.prothomalo.com/activities/drug-abuse/lnq98505up"
+      "answer": "ক) Gross Domestic Product",
+      "explanation": "GDP বা মোট দেশজ উৎপাদন একটি দেশের অর্থনৈতিক অবস্থা বোঝার প্রধান সূচক।",
+      "source": "General Knowledge",
+      "sourceUrl": "N/A"
     },
     {
       "id": 14,
-      "category": "আন্তর্জাতিক বিষয়াবলি",
-      "question": "ফ্রান্সের সাম্প্রতিক বিক্ষোভে স্বরাষ্ট্র মন্ত্রণালয়ের হিসাব অনুযায়ী কতজন মানুষ অংশ নিয়েছিলেন?",
+      "category": "বিজ্ঞান ও প্রযুক্তি",
+      "question": "কোন ভিটামিনের অভাবে স্কার্ভি রোগ হয়?",
       "options": [
-        "ক) ২ লাখ",
-        "খ) ৩ লাখ",
-        "গ) ৪ লাখ ১০ হাজার",
-        "ঘ) ৫ লাখ"
+        "ক) ভিটামিন A",
+        "খ) ভিটামিন B",
+        "গ) ভিটামিন C",
+        "ঘ) ভিটামিন D"
       ],
-      "answer": "গ) ৪ লাখ ১০ হাজার",
-      "explanation": "ফ্রান্সের স্বরাষ্ট্র মন্ত্রণালয়ের হিসাব অনুযায়ী ৪ লাখ ১০ হাজার মানুষ বিক্ষোভে অংশ নিয়েছিলেন।",
-      "source": "বিবিসি বাংলা",
-      "sourceUrl": "https://www.bbc.com/bengali/articles/ckp8g2yd7605o?at_medium=RSS&at_campaign=rss"
+      "answer": "গ) ভিটামিন C",
+      "explanation": "ভিটামিন C-এর অভাবে স্কার্ভি এবং ভিটামিন D-এর অভাবে রিকেটস রোগ হয়।",
+      "source": "General Knowledge",
+      "sourceUrl": "N/A"
     },
     {
       "id": 15,
-      "category": "সংবিধান ও রাজনীতি",
-      "question": "তত্ত্বাবধায়ক সরকার ব্যবস্থা সম্পর্কিত আলোচনার মূল ভিত্তি কোনটি?",
+      "category": "বাংলাদেশ বিষয়াবলি",
+      "question": "ভাষা আন্দোলনের মাধ্যমে কোন ভাষাটি রাষ্ট্রভাষা হিসেবে স্বীকৃতি পায়?",
       "options": [
-        "ক) সংবিধান সংশোধন",
-        "খ) নতুন আইন প্রণয়ন",
-        "গ) জনমত সংগ্রহ",
-        "ঘ) সংসদীয় ক্ষমতা"
+        "ক) ইংরেজি",
+        "খ) বাংলা",
+        "গ) উর্দু",
+        "ঘ) ফারসি"
       ],
-      "answer": "ক) সংবিধান সংশোধন",
-      "explanation": "তত্ত্বাবধায়ক সরকার ব্যবস্থা সম্পর্কিত আলোচনা মূলত সংবিধান সংশোধনের প্রক্রিয়ার সাথে জড়িত।",
-      "source": "বিবিসি বাংলা",
-      "sourceUrl": "https://www.bbc.com/bengali/articles/cx7vp0d3z5q8o?at_medium=RSS&at_campaign=rss"
+      "answer": "খ) বাংলা",
+      "explanation": "১৯৫২ সালের ভাষা আন্দোলনের প্রেক্ষিতে ১৯৫৬ সালে বাংলা ভাষাকে পাকিস্তানের রাষ্ট্রভাষা হিসেবে স্বীকৃতি দেওয়া হয়।",
+      "source": "General Knowledge",
+      "sourceUrl": "N/A"
     },
     {
       "id": 16,
-      "category": "ভূগোল",
-      "question": "K2 শৃঙ্গকে আর কী নামে অভিহিত করা হয়?",
+      "category": "পরিবেশ",
+      "question": "বিশ্বের বৃহত্তম ম্যানগ্রোভ বন কোনটি?",
       "options": [
-        "ক) মাউন্ট এভারেস্ট",
-        "খ) গডউইন-অস্টেন",
-        "গ) কাঞ্চনজঙ্ঘা",
-        "ঘ) নন্দা দেবী"
+        "ক) আমাজন",
+        "খ) সুন্দরবন",
+        "গ) কঙ্গো",
+        "ঘ) তৈগা"
       ],
-      "answer": "খ) গডউইন-অস্টেন",
-      "explanation": "K2 পর্বতশৃঙ্গটি গডউইন-অস্টেন (Godwin-Austen) নামেও পরিচিত।",
-      "source": "ডেইলি স্টার",
-      "sourceUrl": "https://www.thedailystar.net/news/bangladesh/news/wasfia-first-bangladeshi-conquer-k2-3076981"
+      "answer": "খ) সুন্দরবন",
+      "explanation": "সুন্দরবন বিশ্বের বৃহত্তম ম্যানগ্রোভ বন এবং এটি বাংলাদেশ ও ভারতে বিস্তৃত।",
+      "source": "General Knowledge",
+      "sourceUrl": "N/A"
     },
     {
       "id": 17,
       "category": "বিজ্ঞান ও প্রযুক্তি",
-      "question": "রক্তে সিসার (Lead) মাত্রা বেড়ে যাওয়া শরীরের কোন ব্যবস্থার জন্য বেশি ক্ষতিকর?",
+      "question": "সূর্যজগতের সবচেয়ে বড় গ্রহ কোনটি?",
       "options": [
-        "ক) পাচনতন্ত্র",
-        "খ) স্নায়ুতন্ত্র",
-        "গ) শ্বসনতন্ত্র",
-        "ঘ) রক্ত সংবহনতন্ত্র"
+        "ক) পৃথিবী",
+        "খ) মঙ্গল",
+        "গ) বৃহস্পতি",
+        "ঘ) শনি"
       ],
-      "answer": "খ) স্নায়ুতন্ত্র",
-      "explanation": "রক্তে সিসার উচ্চমাত্রা শিশুদের স্নায়ুতন্ত্র এবং মস্তিষ্কের বিকাশে মারাত্মক প্রভাব ফেলে।",
-      "source": "প্রথম আলো",
-      "sourceUrl": "https://www.prothomalo.com/bangladesh/sacpnht4r7"
+      "answer": "গ) বৃহস্পতি",
+      "explanation": "বৃহস্পতি সৌরজগতের বৃহত্তম গ্রহ।",
+      "source": "General Knowledge",
+      "sourceUrl": "N/A"
     },
     {
       "id": 18,
       "category": "আন্তর্জাতিক বিষয়াবলি",
-      "question": "রোহিঙ্গা গণহত্যার মামলায় মিয়ানমার কোন আন্তর্জাতিক সংস্থার কাছে আপত্তি জানিয়েছে?",
+      "question": "সার্ক (SAARC) এর সদর দপ্তর কোথায় অবস্থিত?",
       "options": [
-        "ক) জাতিসংঘ",
-        "খ) বিশ্ব আদালত (World Court)",
-        "গ) অ্যামনেস্টি ইন্টারন্যাশনাল",
-        "ঘ) রেড ক্রস"
+        "ক) ঢাকা",
+        "খ) নয়াদিল্লি",
+        "গ) কাঠমান্ডু",
+        "ঘ) কলম্বো"
       ],
-      "answer": "খ) বিশ্ব আদালত (World Court)",
-      "explanation": "মিয়ানমার রোহিঙ্গা গণহত্যার মামলায় বিশ্ব আদালতে (World Court) তাদের আপত্তি জানিয়েছিল।",
-      "source": "ডেইলি স্টার",
-      "sourceUrl": "https://www.thedailystar.net/rohingya-influx/news/rohingya-genocide-case-proceed-3076971"
+      "answer": "গ) কাঠমান্ডু",
+      "explanation": "সার্ক (South Asian Association for Regional Cooperation) এর সচিবালয় নেপালের কাঠমান্ডুতে অবস্থিত।",
+      "source": "General Knowledge",
+      "sourceUrl": "N/A"
     },
     {
       "id": 19,
-      "category": "সংবিধান ও রাজনীতি",
-      "question": "সংবিধান সংশোধনের জন্য কোন ধরণের কমিটির ভূমিকা গুরুত্বপূর্ণ?",
+      "category": "বাংলাদেশ বিষয়াবলি",
+      "question": "বাংলাদেশের একমাত্র প্রবাল দ্বীপ কোনটি?",
       "options": [
-        "ক) বিচার বিভাগীয় কমিটি",
-        "খ) বিশেষ সংসদীয় কমিটি",
-        "গ) নির্বাচন কমিশন",
-        "ঘ) প্রতিরক্ষা বিভাগ"
+        "ক) হাতিয়া",
+        "খ) সেন্ট মার্টিন",
+        "গ) মহেশখালী",
+        "ঘ) কুতুবদিয়া"
       ],
-      "answer": "খ) বিশেষ সংসদীয় কমিটি",
-      "explanation": "সংবিধান সংশোধনের জন্য সংসদীয় বা বিশেষ কমিটির বৈঠকের খবরটি অত্যন্ত গুরুত্বপূর্ণ।",
-      "source": "বিবিসি বাংলা",
-      "sourceUrl": "https://www.bbc.com/bengali/articles/cx7vp0d3z5q8o?at_medium=RSS&at_campaign=rss"
+      "answer": "খ) সেন্ট মার্টিন",
+      "explanation": "সেন্ট মার্টিন হলো বাংলাদেশের একমাত্র প্রবাল দ্বীপ।",
+      "source": "General Knowledge",
+      "sourceUrl": "N/A"
     },
     {
       "id": 20,
-      "category": "বাংলাদেশ বিষয়াবলি",
-      "question": "বিদ্যুৎ ও জ্বালানি খাতের পরিস্থিতি পর্যালোচনার জন্য কত সময়ের সময় চেয়েছেন প্রতিমন্ত্রী নাসরুল হামিদ?",
+      "category": "সংবিধান ও রাজনীতি",
+      "question": "বাংলাদেশের সংবিধান কত সালে কার্যকর হয়?",
       "options": [
-        "ক) ১ মাস",
-        "খ) ২ সপ্তাহ",
-        "গ) ১ সপ্তাহ",
-        "ঘ) ৩ মাস"
+        "ক) ১৯৭০",
+        "খ) ১৯৭১",
+        "গ) ১৯৭২",
+        "ঘ) ১৯৭৫"
       ],
-      "answer": "গ) ১ সপ্তাহ",
-      "explanation": "বিদ্যুৎ বিভাজন বা শিডিউল অনুযায়ী বিদ্যুৎ সরবরাহ নিশ্চিত করতে পরিস্থিতি পর্যালোচনার জন্য ১ সপ্তাহ সময় চেয়েছেন প্রতিমন্ত্রী।",
-      "source": "ডেইলি স্টার",
-      "sourceUrl": "https://www.thedailystar.net/news/bangladesh/news/need-1-week-assess-situation-3076976"
+      "answer": "গ) ১৯৭২",
+      "explanation": "বাংলাদেশের সংবিধান ১৬ ডিসেম্বর ১৯৭২ সালে কার্যকর হয়।",
+      "source": "General Knowledge",
+      "sourceUrl": "N/A"
     }
   ],
   "vocabulary": [
@@ -307,61 +307,61 @@
       "word": "Genocide",
       "bangla": "গণহত্যা",
       "pronunciation": "জেনোসাইড",
-      "example": "The World Court is hearing the Rohingya genocide case."
-    },
-    {
-      "word": "Amendment",
-      "bangla": "সংশোধন",
-      "pronunciation": "অ্যামেন্ডমেন্ট",
-      "example": "The 15th amendment changed the constitution."
-    },
-    {
-      "word": "Endangered",
-      "bangla": "বিপন্ন",
-      "pronunciation": "এনডেঞ্জার্ড",
-      "example": "The Chalmugra plant is an endangered species."
+      "example": "The international court is investigating the genocide."
     },
     {
       "word": "Summit",
-      "bangla": "চূড়া/শীর্ষ সম্মেলন",
+      "bangla": "শৃঙ্গ/শীর্ষ সম্মেলন",
       "pronunciation": "সামিট",
-      "example": "She conquered the K2 summit."
+      "example": "She conquered the highest summit."
+    },
+    {
+      "word": "Treacherous",
+      "bangla": "বিপজ্জনক/বিশ্বাসঘাতক",
+      "pronunciation": "ট্রেচারাস",
+      "example": "The mountain path is treacherous."
     },
     {
       "word": "Objection",
       "bangla": "আপত্তি",
       "pronunciation": "অবজেকশন",
-      "example": "Myanmar raised objections to the case."
+      "example": "The court rejected the objection."
     },
     {
-      "word": "Treacherous",
-      "bangla": "বিপজ্জনক/ treacherous",
-      "pronunciation": "ট্রেচারাস",
-      "example": "The climbers faced treacherous conditions on K2."
+      "word": "Assessment",
+      "bangla": "মূল্যায়ন",
+      "pronunciation": "অ্যাসেসমেন্ট",
+      "example": "The minister needs time for assessment."
     },
     {
-      "word": "Assault",
-      "bangla": "আক্রমণ/ধর্ষণ",
-      "pronunciation": "অ্যাসাল্ট",
-      "example": "The victim was a victim of sexual assault."
+      "word": "Diplomacy",
+      "bangla": "কূটনীতি",
+      "pronunciation": "ডিপ্লোম্যাসি",
+      "example": "International diplomacy is essential for peace."
     },
     {
-      "word": "Assess",
-      "bangla": "মূল্যায়ন করা",
-      "pronunciation": "অ্যাসেস",
-      "example": "The minister needs time to assess the situation."
+      "word": "Antivenom",
+      "bangla": "প্রতিষেধক/অ্যান্টিভেনম",
+      "pronunciation": "অ্যান্টিভেনম",
+      "example": "The lab is producing antivenom for snakes."
     },
     {
-      "word": "Minority",
-      "bangla": "সংখ্যালঘু",
-      "pronunciation": "মাইনরিটি",
-      "example": "The Rohingya are a Muslim minority."
+      "word": "Conquer",
+      "bangla": "জয় করা",
+      "pronunciation": "কনকার",
+      "example": "He aims to conquer the world."
     },
     {
-      "word": "Coronation",
-      "bangla": "অভিষেক",
-      "pronunciation": "কোরোনেশন",
-      "example": "The coronation of Athelstan was a historic event."
+      "word": "Forecast",
+      "bangla": "পূর্বাভাস",
+      "pronunciation": "ফোরকাস্ট",
+      "example": "The weather forecast predicts a cyclone."
+    },
+    {
+      "word": "Identify",
+      "bangla": "শনাক্ত করা",
+      "pronunciation": "আইডেন্টিফাই",
+      "example": "The administration identified the culprits."
     }
   ]
 }
