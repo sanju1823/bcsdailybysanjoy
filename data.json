@@ -1,305 +1,305 @@
 {
-  "date": "26 October 2026",
+  "date": "27 October 2026",
   "questions": [
     {
       "id": 1,
-      "category": "বাংলাদেশ বিষয়াবলি",
-      "question": "২০২৭ শিক্ষাবর্ষে নবম-দশম শ্রেণির বাংলা সাহিত্য বইয়ে কার ‘স্বাধীনতাযুদ্ধের স্মৃতি’ প্রবন্ধটি অন্তর্ভুক্ত করা হচ্ছে?",
+      "category": "আন্তর্জাতিক বিষয়াবলি",
+      "question": "সম্প্রতি বাংলাদেশের প্রধানমন্ত্রী তারেক রহমান কোন দেশের রাজধানী টোকিওতে অবস্থান করছেন?",
       "options": [
-        "ক) শেখ মুজিবুর রহমান",
-        "খ) জিয়াউর রহমান",
-        "গ) তাজউদ্দীন আহমদ",
-        "ঘ) এম এ হান্নান"
+        "ক) চীন",
+        "খ) দক্ষিণ কোরিয়া",
+        "গ) জাপান",
+        "ঘ) থাইল্যান্ড"
       ],
-      "answer": "খ) জিয়াউর রহমান",
-      "explanation": "সাবেক রাষ্ট্রপতি জিয়াউর রহমানের 'স্বাধীনতাযুদ্ধের স্মৃতি' প্রবন্ধটি ২০২৭ শিক্ষাবর্ষের নবম-দশম শ্রেণির পাঠ্যবইয়ে যুক্ত হচ্ছে।",
+      "answer": "গ) জাপান",
+      "explanation": "প্রধানমন্ত্রী তারেক রহমান টোকিওতে পৌঁছেছেন যেখানে দুই দেশের অর্থনৈতিক সম্পর্ক বৃদ্ধির লক্ষ্যে বৈঠক অনুষ্ঠিত হচ্ছে। জাপান পূর্ব এশিয়ার একটি উন্নত দেশ।",
       "source": "প্রথম আলো",
-      "sourceUrl": "https://www.prothomalo.com/bangladesh/fxik8ubx5b"
+      "sourceUrl": "https://www.prothomalo.com/bangladesh/q7s2twiabq"
     },
     {
       "id": 2,
-      "category": "আন্তর্জাতিক বিষয়াবলি",
-      "question": "সম্প্রতি কোন দেশের প্রেসিডেন্ট হিসেবে লুলা ডা সিলভা জয়ী হয়েছেন?",
+      "category": "খেলাধুলা",
+      "question": "সম্প্রতি বিশ্বের দ্বিতীয় সর্বোচ্চ পর্বতশৃঙ্গ K2 জয় করা প্রথম বাংলাদেশী নারী পর্বতারোহী কে?",
       "options": [
-        "ক) আর্জেন্টিনা",
-        "খ) ব্রাজিল",
-        "গ) চিলি",
-        "ঘ) কলম্বিয়া"
+        "ক) ওয়াসফিয়া নাজরিন",
+        "খ) নিশাত আমিন",
+        "গ) মালিহা নূর",
+        "ঘ) তানিয়া আহমেদ"
       ],
-      "answer": "খ) ব্রাজিল",
-      "explanation": "লুলা ডা সিলভা ব্রাজিলের প্রেসিডেন্ট হিসেবে নির্বাচিত হয়েছেন। ব্রাজিল লাতিন আমেরিকার একটি বৃহৎ দেশ।",
-      "source": "বিবিসি বাংলা",
-      "sourceUrl": "https://www.bbc.com/bengali/articles/cqlye383181do?at_medium=RSS&at_campaign=rss"
+      "answer": "ক) ওয়াসফিয়া নাজরিন",
+      "explanation": "ওয়াসফিয়া নাজরিন পাকিস্তানের K2 শৃঙ্গ জয় করে ইতিহাস সৃষ্টি করেছেন। K2 বিশ্বের দ্বিতীয় উচ্চতম পর্বতশৃঙ্গ যা কারাকোরাম পর্বতমালায় অবস্থিত।",
+      "source": "ডেইলি স্টার",
+      "sourceUrl": "https://www.thedailystar.net/news/bangladesh/news/wasfia-first-bangladeshi-conquer-k2-3076981"
     },
     {
       "id": 3,
       "category": "আন্তর্জাতিক বিষয়াবলি",
-      "question": "রোহিঙ্গা গণহত্যা সংক্রান্ত মামলাটি কোন আন্তর্জাতিক আদালতে বিচারাধীন রয়েছে?",
+      "question": "রোহিঙ্গা গণহত্যা সংক্রান্ত মামলাটি বর্তমানে কোন আন্তর্জাতিক আদালতে বিচারাধীন?",
       "options": [
-        "ক) আইসিসি (ICC)",
-        "খ) আইসিজে (ICJ)",
-        "গ) ইউনেস্কো (UNESCO)",
-        "ঘ) জাতিসংঘ নিরাপত্তা পরিষদ"
+        "ক) ICC",
+        "খ) ICJ",
+        "গ) UN Security Council",
+        "ঘ) ILO"
       ],
-      "answer": "খ) আইসিজে (ICJ)",
-      "explanation": "রোহিঙ্গা গণহত্যার মামলাটি আন্তর্জাতিক আদালতের (World Court/ICJ) মাধ্যমে অগ্রসর হচ্ছে। ICJ হলো জাতিসংঘের প্রধান বিচার বিভাগীয় অঙ্গ।",
+      "answer": "খ) ICJ",
+      "explanation": "মিয়ানমারের বিরুদ্ধে রোহিঙ্গা গণহত্যার মামলাটি ইন্টারন্যাশনাল কোর্ট অব জাস্টিস (ICJ) বা বিশ্ব আদালতে চলমান রয়েছে। ICJ হলো জাতিসংঘের প্রধান বিচার বিভাগীয় অঙ্গ।",
       "source": "ডেইলি স্টার",
       "sourceUrl": "https://www.thedailystar.net/rohingya-influx/news/rohingya-genocide-case-proceed-3076971"
     },
     {
       "id": 4,
-      "category": "খেলাধুলা",
-      "question": "কে বিশ্বের দ্বিতীয় উচ্চতম শৃঙ্গ K2 জয়ী প্রথম বাংলাদেশী?",
+      "category": "অর্থনীতি",
+      "question": "সম্প্রতি বাংলাদেশি তৈরি পোশাক শিল্পের নতুন বাজার ও ক্রেতা খোঁজার লক্ষ্যে হংকংয়ে কোন ধরণের আয়োজন করা হয়েছে?",
       "options": [
-        "ক) ওয়াসফিয়া নাজরিন",
-        "খ) মিতা পাল",
-        "গ) আরিফা পারভীন",
-        "ঘ) নুসরাত জাহান"
+        "ক) এক্সপো",
+        "খ) রোড শো",
+        "গ) বিজনেস সামিট",
+        "ঘ) কনফারেন্স"
       ],
-      "answer": "ক) ওয়াসফিয়া নাজরিন",
-      "explanation": "বাংলাদেশের পর্বতারোহী ওয়াসফিয়া নাজরিন পাকিস্তানের K2 শৃঙ্গ জয়ী প্রথম বাংলাদেশী হয়েছেন।",
-      "source": "ডেইলি স্টার",
-      "sourceUrl": "https://www.thedailystar.net/news/bangladesh/news/wasfia-first-bangladeshi-conquer-k2-3076981"
+      "answer": "খ) রোড শো",
+      "explanation": "বিজিএমইএর সভাপতি জানিয়েছেন, হংকংয়ে একটি রোড শোর আয়োজন করা হয়েছে যাতে পোশাক খাতের ক্রেতা বৃদ্ধি করা যায়। BGMEA এর পূর্ণরূপ হলো Bangladesh Garment Manufacturers and Exporters Association।",
+      "source": "প্রথম আলো",
+      "sourceUrl": "https://www.prothomalo.com/business/economics/i9i6bppg1b"
     },
     {
       "id": 5,
-      "category": "পরিবেশ",
-      "question": "সম্প্রতি বঙ্গোপসাগরে সৃষ্ট নিম্নচাপটি কোন প্রাকৃতিক দুর্যোগে পরিণত হওয়ার পূর্বাভাস দেওয়া হয়েছে?",
+      "category": "আন্তর্জাতিক বিষয়াবলি",
+      "question": "সম্প্রতি ছাত্র আন্দোলনের মুখে কোন দেশের দীর্ঘমেয়াদী রাজনৈতিক আধিপত্য ভেঙে পড়েছে?",
       "options": [
-        "ক) সুনামির",
-        "খ) ঘূর্ণিঝড়ে",
-        "গ) খরার",
-        "ঘ) বন্যায়"
+        "ক) সার্বিয়া",
+        "খ) ইউক্রেন",
+        "গ) পোল্যান্ড",
+        "ঘ) হাঙ্গেরি"
       ],
-      "answer": "খ) ঘূর্ণিঝড়ে",
-      "explanation": "আবহাওয়া বিভাগের পূর্বাভাস অনুযায়ী, বঙ্গোপসাগরে অবস্থানরত নিম্নচাপটি ঘনীভূত হয়ে ঘূর্ণিঝড়ে পরিণত হতে পারে।",
+      "answer": "ক) সার্বিয়া",
+      "explanation": "সার্বিয়ার রাজনৈতিক নেতা আলেকজান্ডার ভুচিচের ১৪ বছরের ক্ষমতা ছাত্র আন্দোলনের মাধ্যমে পতন ঘটেছে। সার্বিয়া দক্ষিণ-পূর্ব ইউরোপের একটি দেশ।",
       "source": "বিবিসি বাংলা",
-      "sourceUrl": "https://www.bbc.co.uk/bengali/live/cx98zpj6me8gt?at_medium=RSS&at_campaign=rss"
+      "sourceUrl": "https://www.bbc.com/bengali/articles/ckn9rz9j7e3po?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": 6,
-      "category": "বিজ্ঞান ও প্রযুক্তি",
-      "question": "বাংলাদেশে রাসেলস ভাইপারের অ্যান্টিভেনম বা প্রতিষেধক তৈরির কাজ করছে কোন প্রতিষ্ঠান?",
+      "category": "আন্তর্জাতিক বিষয়াবলি",
+      "question": "ইরানের প্রেসিডেন্ট সম্প্রতি কোন কোন দেশ সফর শেষে মস্কো রওনা হয়েছেন?",
       "options": [
-        "ক) icddr,b",
-        "খ) ভেনম রিসার্চ সেন্টার",
-        "গ) বিসিএসআইআর (BCSIR)",
-        "ঘ) আইইডি (IED)"
+        "ক) সৌদি আরব, তুরস্ক ও পাকিস্তান",
+        "খ) কাতার, ওমান ও ইরান",
+        "গ) ইরাক, ইরান ও সিরিয়া",
+        "ঘ আল্লাহ, তুরস্ক ও মিশর"
       ],
-      "answer": "খ) ভেনম রিসার্চ সেন্টার",
-      "explanation": "বাংলাদেশের ভেনম রিসার্চ সেন্টার রাসেলস ভাইপারের অ্যান্টিভেনম তৈরির গুরুত্বপূর্ণ পর্যায়ে অ্যান্টিবডি উৎপাদনের কাজ সম্পন্ন করেছে।",
+      "answer": "ক) সৌদি আরব, তুরস্ক ও পাকিস্তান",
+      "explanation": "ইরানের প্রেসিডেন্ট সৌদি আরব, তুরস্ক ও পাকিস্তান সফর শেষে মস্কো যাচ্ছেন। এই সফরটি মধ্যপ্রাচ্য ও দক্ষিণ এশিয়ার ভূ-রাজনীতিতে অত্যন্ত গুরুত্বপূর্ণ।",
       "source": "বিবিসি বাংলা",
-      "sourceUrl": "https://www.bbc.com/bengali/articles/c70gleqrnljo?at_medium=RSS&at_campaign=rss"
+      "sourceUrl": "https://www.bbc.co.uk/bengali/live/cmed3wd0yvjwt?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": 7,
-      "category": "সংবিধান ও রাজনীতি",
-      "question": "বাংলাদেশের বিদ্যুৎ, জ্বালানি ও খনিজ সম্পদ বিষয়ক বর্তমান প্রতিমন্ত্রী কে?",
+      "category": "বাংলাদেশ বিষয়াবলি",
+      "question": "বিদ্যুৎ বিভ্রাট বা লোডশেডিংয়ের পরিস্থিতি পর্যালোচনার জন্য রাষ্ট্রপ্রতিমন্ত্রী কতদিনের সময় চেয়েছেন?",
       "options": [
-        "ক) আসাদুজ্জামান খান",
-        "খ) নাসরুল হামিদ",
-        "গ) তৌহিদ হোসেন",
-        "ঘ) আকতার হোসেন"
+        "ক) ৩ দিন",
+        "খ) ৫ দিন",
+        "গ) ১ সপ্তাহ",
+        "ঘ) ২ সপ্তাহ"
       ],
-      "answer": "খ) নাসরুল হামিদ",
-      "explanation": "নাসরুল হামিদ বিদ্যুৎ, জ্বালানি ও খনিজ সম্পদ বিষয়ক প্রতিমন্ত্রী হিসেবে দায়িত্ব পালন করছেন।",
+      "answer": "গ) ১ সপ্তাহ",
+      "explanation": "বিদ্যুৎ ও জ্বালানি মন্ত্রণালয়ের রাষ্ট্রপ্রতিমন্ত্রী নাসরুল হামিদ পরিস্থিতি পর্যালোচনার জন্য এক সপ্তাহ সময় চেয়েছেন। বিদ্যুৎ বিভাগ বর্তমানে দেশব্যাপী লোডশেডিং নিয়ন্ত্রণের চেষ্টা করছে।",
       "source": "ডেইলি স্টার",
       "sourceUrl": "https://www.thedailystar.net/news/bangladesh/news/need-1-week-assess-situation-3076976"
     },
     {
       "id": 8,
-      "category": "আন্তর্জাতিক বিষয়াবলি",
-      "question": "K2 পর্বতশৃঙ্গটি কোন দেশে অবস্থিত?",
+      "category": "সংবিধান ও রাজনীতি",
+      "question": "আইজিপির 'ক্রসফায়ার' সংক্রান্ত মন্তব্যের প্রেক্ষিতে কোন সংস্থাটি তীব্র নিন্দা ও প্রতিবাদ জানিয়েছে?",
       "options": [
-        "ক) নেপাল",
-        "খ) চীন",
-        "গ) পাকিস্তান",
-        "ঘ) ভারত"
+        "ক) মানবাধিকার সংস্থা",
+        "খ) জাতিসংঘ",
+        "গ) অ্যামনেস্টি ইন্টারন্যাশনাল",
+        "ঘ) রেড ক্রস"
       ],
-      "answer": "গ) পাকিস্তান",
-      "explanation": "K2 পর্বতশৃঙ্গটি পাকিস্তানের কারাকোরাম পর্বতমালায় অবস্থিত। এটি বিশ্বের দ্বিতীয় সর্বোচ্চ শৃঙ্গ।",
-      "source": "ডেইলি স্টার",
-      "sourceUrl": "https://www.thedailystar.net/news/bangladesh/news/wasfia-first-bangladeshi-conquer-k2-3076981"
+      "answer": "ক) মানবাধিকার সংস্থা",
+      "explanation": "আইজিপির 'ক্রসফায়ার' বিষয়ক বক্তব্যের প্রতিবাদ জানিয়েছে মানবাধিকার সংস্থা ও রাজনৈতিক দলগুলো। মানবাধিকার রক্ষা সংবিধানের মৌলিক অধিকারের সাথে সরাসরি সম্পৃক্ত।",
+      "source": "বিবিসি বাংলা",
+      "sourceUrl": "https://www.bbc.com/bengali/articles/cmx2wr592pzko?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": 9,
-      "category": "বিজ্ঞান ও প্রযুক্তি",
-      "question": "রাসেলস ভাইপার (Russell's Viper) কোন শ্রেণীর প্রাণীর অন্তর্ভুক্ত?",
+      "category": "আন্তর্জাতিক বিষয়াবলি",
+      "question": "ভারতের রাজধানী দিল্লিতে ব্যবসায়ীদের বিক্ষোভের মূল কারণ হিসেবে কোনটি উল্লেখ করা হয়েছে?",
       "options": [
-        "ক) উভচর",
-        "খ) সরীসৃপ",
-        "গ) স্তন্যপায়ী",
-        "ঘ"
+        "ক) ট্যাক্স বৃদ্ধি",
+        "খ) ভোট চুরি ও লকডাউন",
+        "গ) মুদ্রাস্ফীতি",
+        "ঘ) বেকারত্ব"
       ],
-      "answer": "খ) সরীসৃপ",
-      "explanation": "রাসেলস ভাইপার একটি অত্যন্ত বিষধর সাপ যা সরীসৃপ শ্রেণির অন্তর্ভুক্ত।",
-      "source": "বিবিসি বাংলা",
-      "sourceUrl": "https://www.bbc.com/bengali/articles/c70gleqrnljo?at_medium=RSS&at_campaign=rss"
+      "answer": "খ) ভোট চুরি ও লকডাউন",
+      "explanation": "রাহুল নামক একজন ব্যবসায়ী অভিযোগ করেছেন যে, সরকার মেট্রো স্টেশন ও রাস্তা বন্ধ করে লকডাউন করেছে এবং সাধারণ মানুষের ভোট চুরি হচ্ছে।",
+      "source": "প্রথম আলো",
+      "sourceUrl": "https://www.prothomalo.com/world/india/ukrapq6g5f"
     },
     {
       "id": 10,
-      "category": "আন্তর্জাতিক বিষয়াবলি",
-      "question": "ব্রাজিল কোন মহাদেশে অবস্থিত?",
+      "category": "বাংলাদেশ বিষয়াবলি",
+      "question": "কুষ্টিয়ায় জামায়াত তাদের সমাবেশ কোথায় করতে চায় যা নিয়ে প্রশাসনের সাথে জটিলতা তৈরি হয়েছে?",
       "options": [
-        "ক) উত্তর আমেরিকা",
-        "খ) দক্ষিণ আমেরিকা",
-        "গ) আফ্রিকা",
-        "ঘ) ইউরোপ"
+        "ক) জেলা স্কুল মাঠ",
+        "খ) কুষ্টিয়া স্টেডিয়াম",
+        "গ) রৌমারী মাঠ",
+        "ঘ) স্থানীয় পার্ক"
       ],
-      "answer": "খ) দক্ষিণ আমেরিকা",
-      "explanation": "ব্রাজিল দক্ষিণ আমেরিকা মহাদেশের বৃহত্তম দেশ।",
-      "source": "বিবিসি বাংলা",
-      "sourceUrl": "https://www.bbc.com/bengali/articles/cqlye383181do?at_medium=RSS&at_campaign=rss"
+      "answer": "ক) জেলা স্কুল মাঠ",
+      "explanation": "জামায়াত কুষ্টিয়ার জেলা স্কুল মাঠে সমাবেশ করতে চায়, কিন্তু প্রশাসন স্টেডিয়াম ব্যবহারের প্রসঙ্গ তুলছে। রাজনৈতিক সমাবেশ পরিচালনা স্থানীয় প্রশাসনের আওতাধীন।",
+      "source": "প্রথম আলো",
+      "sourceUrl": "https://www.prothomalo.com/bangladesh/district/xam4p7e9fw"
     },
     {
       "id": 11,
       "category": "আন্তর্জাতিক বিষয়াবলি",
-      "question": "জাতিসংঘের নিরাপত্তা পরিষদের স্থায়ী সদস্য সংখ্যা কয়টি?",
+      "question": "বিশ্ব আদালত (World Court) কোন দেশের আপত্তি প্রত্যাখ্যান করে রোহিঙ্গা গণহত্যা মামলার শুনানির পথ প্রশস্ত করেছে?",
       "options": [
-        "ক) ৫টি",
-        "খ) ১০টি",
-        "গ) ১৫টি",
-        "ঘ) ২০টি"
+        "ক) বাংলাদেশ",
+        "খ) মিয়ানমার",
+        "গ) থাইল্যান্ড",
+        "ঘ) ভারত"
       ],
-      "answer": "ক) ৫টি",
-      "explanation": "জাতিসংঘ নিরাপত্তা পরিষদের ৫টি স্থায়ী সদস্য রয়েছে: যুক্তরাষ্ট্র, যুক্তরাজ্য, ফ্রান্স, রাশিয়া ও চীন।",
-      "source": "General Knowledge",
-      "sourceUrl": "N/A"
+      "answer": "খ) মিয়ানমার",
+      "explanation": "মিয়ানমারের আপত্তি প্রত্যাখ্যান করে বিশ্ব আদালত রোহিঙ্গা গণহত্যা মামলার পূর্ণাঙ্গ শুনানি বহাল রেখেছে। মিয়ানমার একটি দক্ষিণ-পূর্ব এশীয় দেশ।",
+      "source": "ডেইলি স্টার",
+      "sourceUrl": "https://www.thedailystar.net/rohingya-influx/news/rohingya-genocide-case-proceed-3076971"
     },
     {
       "id": 12,
       "category": "বাংলাদেশ বিষয়াবলি",
-      "question": "বাংলাদেশের সংবিধান অনুযায়ী মৌলিক অধিকার কোন অনুচ্ছেদে বর্ণিত হয়েছে?",
+      "question": "বাংলাদেশের প্রধানমন্ত্রীর কার্যালয় সম্প্রতি কোন শহরে পৌঁছেছে?",
       "options": [
-        "ক) ১-১০",
-        "খ) ১১-২৭",
-        "গ) ২৬-৪৭",
-        "ঘ) ৪৮-৬০"
+        "ক) সিঙ্গাপুর",
+        "খ) টোকিও",
+        "গ) দুবাই",
+        "ঘ) লন্ডন"
       ],
-      "answer": "গ) ২৬-৪৭",
-      "explanation": "বাংলাদেশের সংবিধানের ২৬ থেকে ৪৭ নম্বর অনুচ্ছেদে নাগরিকদের মৌলিক অধিকারের কথা বলা হয়েছে।",
-      "source": "General Knowledge",
-      "sourceUrl": "N/A"
+      "answer": "খ) টোকিও",
+      "explanation": "প্রধানমন্ত্রী তারেক রহমানের কার্যালয় টোকিওতে পৌঁছেছে। টোকিও জাপানের রাজধানী।",
+      "source": "প্রথম আলো",
+      "sourceUrl": "https://www.prothomalo.com/bangladesh/q7s2twiabq"
     },
     {
       "id": 13,
-      "category": "অর্থনীতি",
-      "question": "জিডিপি (GDP) এর পূর্ণরূপ কী?",
+      "category": "বিজ্ঞান ও প্রযুক্তি",
+      "question": "K2 পর্বতশৃঙ্গটি কোন পর্বতমালা বা রেঞ্জের অন্তর্ভুক্ত?",
       "options": [
-        "ক) Gross Domestic Product",
-        "খ) Gross Development Product",
-        "গ) General Domestic Product",
-        "ঘ) Gross Deposit Product"
+        "ক) হিমালয়",
+        "খ) আল্পস",
+        "গ) কারাকোরাম",
+        "ঘ) আন্দিজ"
       ],
-      "answer": "ক) Gross Domestic Product",
-      "explanation": "GDP বা মোট দেশজ উৎপাদন একটি দেশের অর্থনৈতিক অবস্থা বোঝার প্রধান সূচক।",
-      "source": "General Knowledge",
-      "sourceUrl": "N/A"
+      "answer": "গ) কারাকোরাম",
+      "explanation": "K2 পর্বতটি কারাকোরাম পর্বতমালায় অবস্থিত। এটি বিশ্বের দ্বিতীয় সর্বোচ্চ পর্বতশৃঙ্গ।",
+      "source": "ডেইলি স্টার",
+      "sourceUrl": "https://www.thedailystar.net/news/bangladesh/news/wasfia-first-bangladeshi-conquer-k2-3076981"
     },
     {
       "id": 14,
-      "category": "বিজ্ঞান ও প্রযুক্তি",
-      "question": "কোন ভিটামিনের অভাবে স্কার্ভি রোগ হয়?",
+      "category": "অর্থনীতি",
+      "question": "তৈরি পোশাক শিল্পে রপ্তানি বৃদ্ধির লক্ষ্যে বিজিএমইএ (BGMEA) কোন গুরুত্বপূর্ণ বাণিজ্য কেন্দ্রে রোড শো আয়োজন করেছে?",
       "options": [
-        "ক) ভিটামিন A",
-        "খ) ভিটামিন B",
-        "গ) ভিটামিন C",
-        "ঘ) ভিটামিন D"
+        "ক) নিউ ইয়র্ক",
+        "খ) হংকং",
+        "গ) দুবাই",
+        "ঘ) প্যারিস"
       ],
-      "answer": "গ) ভিটামিন C",
-      "explanation": "ভিটামিন C-এর অভাবে স্কার্ভি এবং ভিটামিন D-এর অভাবে রিকেটস রোগ হয়।",
-      "source": "General Knowledge",
-      "sourceUrl": "N/A"
+      "answer": "খ) হংকং",
+      "explanation": "বাংলাদেশি পোশাকের নতুন ক্রেতা খোঁজার লক্ষ্যে হংকংয়ে রোড শো আয়োজন করা হয়েছে। হংকং একটি গুরুত্বপূর্ণ আন্তর্জাতিক বাণিজ্য কেন্দ্র।",
+      "source": "প্রথম আলো",
+      "sourceUrl": "https://www.prothomalo.com/business/economics/i9i6bppg1b"
     },
     {
       "id": 15,
-      "category": "বাংলাদেশ বিষয়াবলি",
-      "question": "ভাষা আন্দোলনের মাধ্যমে কোন ভাষাটি রাষ্ট্রভাষা হিসেবে স্বীকৃতি পায়?",
+      "category": "আন্তর্জাতিক বিষয়াবলি",
+      "question": "রোহিঙ্গা গণহত্যার মামলায় কোন দেশ আপত্তি জানিয়েছিল?",
       "options": [
-        "ক) ইংরেজি",
-        "খ) বাংলা",
-        "গ) উর্দু",
-        "ঘ) ফারসি"
+        "ক) ভারত",
+        "খ) চীন",
+        "গ) মিয়ানমার",
+        "ঘ) মালয়েশিয়া"
       ],
-      "answer": "খ) বাংলা",
-      "explanation": "১৯৫২ সালের ভাষা আন্দোলনের প্রেক্ষিতে ১৯৫৬ সালে বাংলা ভাষাকে পাকিস্তানের রাষ্ট্রভাষা হিসেবে স্বীকৃতি দেওয়া হয়।",
-      "source": "General Knowledge",
-      "sourceUrl": "N/A"
+      "answer": "গ) মিয়ানমার",
+      "explanation": "মিয়ানমার রোহিঙ্গা গণহত্যার মামলায় আইসিজে-তে আপত্তি জানিয়েছিল যা আদালত প্রত্যাখ্যান করেছে।",
+      "source": "ডেইলি স্টার",
+      "sourceUrl": "https://www.thedailystar.net/rohingya-influx/news/rohingya-genocide-case-proceed-3076971"
     },
     {
       "id": 16,
-      "category": "পরিবেশ",
-      "question": "বিশ্বের বৃহত্তম ম্যানগ্রোভ বন কোনটি?",
+      "category": "সংবিধান ও রাজনীতি",
+      "question": "আইজিপির (IGP) বক্তব্যকে কেন্দ্র করে কোন ধরনের প্রশাসনিক জবাবদিহিতার দাবি উঠেছে?",
       "options": [
-        "ক) আমাজন",
-        "খ) সুন্দরবন",
-        "গ) কঙ্গো",
-        "ঘ) তৈগা"
+        "ক) পদত্যাগ ও অপসারণ",
+        "খ) বদলি",
+        "গ) পদোন্নতি",
+        "ঘ) ছুটি"
       ],
-      "answer": "খ) সুন্দরবন",
-      "explanation": "সুন্দরবন বিশ্বের বৃহত্তম ম্যানগ্রোভ বন এবং এটি বাংলাদেশ ও ভারতে বিস্তৃত।",
-      "source": "General Knowledge",
-      "sourceUrl": "N/A"
+      "answer": "ক) পদত্যাগ ও অপসারণ",
+      "explanation": "আইজিপির 'ক্রসফায়ার' মন্তব্যের পর তার জবাবদিহিতা ও অপসারণের দাবি উঠেছে। আইজিপি (Inspector General of Police) হলো দেশের পুলিশ বাহিনীর প্রধান।",
+      "source": "বিবিসি বাংলা",
+      "sourceUrl": "https://www.bbc.com/bengali/articles/cmx2wr592pzko?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": 17,
-      "category": "বিজ্ঞান ও প্রযুক্তি",
-      "question": "সূর্যজগতের সবচেয়ে বড় গ্রহ কোনটি?",
+      "category": "বাংলাদেশ বিষয়াবলি",
+      "question": "জাপান-বাংলাদেশ অর্থনৈতিক সমৃদ্ধির ক্ষেত্রে কোন দেশের প্রধানমন্ত্রী তারেক রহমানের সাথে বৈঠক করবেন?",
       "options": [
-        "ক) পৃথিবী",
-        "খ) মঙ্গল",
-        "গ) বৃহস্পতি",
-        "ঘ) শনি"
+        "ক) জাপানের প্রধানমন্ত্রী",
+        "খ) চীনের প্রধানমন্ত্রী",
+        "গ) ভারতের প্রধানমন্ত্রী",
+        "ঘ) মার্কিন প্রেসিডেন্ট"
       ],
-      "answer": "গ) বৃহস্পতি",
-      "explanation": "বৃহস্পতি সৌরজগতের বৃহত্তম গ্রহ।",
-      "source": "General Knowledge",
-      "sourceUrl": "N/A"
+      "answer": "ক) জাপানের প্রধানমন্ত্রী",
+      "explanation": "জাপান-বাংলাদেশ বন্ধুত্ব অর্থনৈতিক সমৃদ্ধির চালিকা শক্তি হবে বলে প্রধানমন্ত্রী তারেক রহমান টোকিওতে জানিয়েছেন।",
+      "source": "প্রথম আলো",
+      "sourceUrl": "https://www.prothomalo.com/bangladesh/q7s2twiabq"
     },
     {
       "id": 18,
       "category": "আন্তর্জাতিক বিষয়াবলি",
-      "question": "সার্ক (SAARC) এর সদর দপ্তর কোথায় অবস্থিত?",
+      "question": "মক্কা প্রতিরক্ষা চুক্তি সই করা দেশ কোনটি?",
       "options": [
-        "ক) ঢাকা",
-        "খ) নয়াদিল্লি",
-        "গ) কাঠমান্ডু",
-        "ঘ) কলম্বো"
+        "ক) সৌদি আরব",
+        "খ) তুরস্ক",
+        "গ) পাকিস্তান",
+        "ঘர ইরান"
       ],
-      "answer": "গ) কাঠমান্ডু",
-      "explanation": "সার্ক (South Asian Association for Regional Cooperation) এর সচিবালয় নেপালের কাঠমান্ডুতে অবস্থিত।",
-      "source": "General Knowledge",
-      "sourceUrl": "N/A"
+      "answer": "ক) সৌদি আরব",
+      "explanation": "সৌদি আরব মক্কা প্রতিরক্ষা চুক্তির অন্তর্ভুক্ত একটি দেশ। এটি মধ্যপ্রাচ্যের একটি অন্যতম শক্তিশালী দেশ।",
+      "source": "বিবিসি বাংলা",
+      "sourceUrl": "https://www.bbc.co.uk/bengali/live/cmed3wd0yvjwt?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": 19,
       "category": "বাংলাদেশ বিষয়াবলি",
-      "question": "বাংলাদেশের একমাত্র প্রবাল দ্বীপ কোনটি?",
+      "question": "বিদ্যুৎ ও জ্বালানি মন্ত্রণালয়ের বর্তমান প্রতিমন্ত্রী কে?",
       "options": [
-        "ক) হাতিয়া",
-        "খ) সেন্ট মার্টিন",
-        "গ) মহেশখালী",
-        "ঘ) কুতুবদিয়া"
+        "ক) নাসরুল হামিদ",
+        "খ) আকতার হোসেন",
+        "গ) আনিসুল হক",
+        "ঘ) মো. আলী হোসেন ফকির"
       ],
-      "answer": "খ) সেন্ট মার্টিন",
-      "explanation": "সেন্ট মার্টিন হলো বাংলাদেশের একমাত্র প্রবাল দ্বীপ।",
-      "source": "General Knowledge",
-      "sourceUrl": "N/A"
+      "answer": "ক) নাসরুল হামিদ",
+      "explanation": "নাসরুল হামিদ বিদ্যুৎ, জ্বালানি ও খনিজ সম্পদ বিষয়ক প্রতিমন্ত্রী।",
+      "source": "ডেইলি স্টার",
+      "sourceUrl": "https://www.thedailystar.net/news/bangladesh/news/need-1-week-assess-situation-3076976"
     },
     {
       "id": 20,
       "category": "সংবিধান ও রাজনীতি",
-      "question": "বাংলাদেশের সংবিধান কত সালে কার্যকর হয়?",
+      "question": "আইজিপির (IGP) পূর্ণরূপ কী?",
       "options": [
-        "ক) ১৯৭০",
-        "খ) ১৯৭১",
-        "গ) ১৯৭২",
-        "ঘ) ১৯৭৫"
+        "ক) Inspector General of Police",
+        "খ) International General of Police",
+        "গ) Inspector Group of Police",
+        "ঘ) Internal General of Police"
       ],
-      "answer": "গ) ১৯৭২",
-      "explanation": "বাংলাদেশের সংবিধান ১৬ ডিসেম্বর ১৯৭২ সালে কার্যকর হয়।",
-      "source": "General Knowledge",
-      "sourceUrl": "N/A"
+      "answer": "ক) Inspector General of Police",
+      "explanation": "আইজিপি মানে ইন্সপেক্টর জেনারেল অফ পুলিশ, যিনি দেশের পুলিশ বাহিনীর সর্বোচ্চ প্রশাসনিক কর্মকর্তা।",
+      "source": "বিবিসি বাংলা",
+      "sourceUrl": "https://www.bbc.com/bengali/articles/cmx2wr592pzko?at_medium=RSS&at_campaign=rss"
     }
   ],
   "vocabulary": [
@@ -307,61 +307,61 @@
       "word": "Genocide",
       "bangla": "গণহত্যা",
       "pronunciation": "জেনোসাইড",
-      "example": "The international court is investigating the genocide."
+      "example": "The court is hearing the Rohingya genocide case."
     },
     {
-      "word": "Summit",
-      "bangla": "শৃঙ্গ/শীর্ষ সম্মেলন",
-      "pronunciation": "সামিট",
-      "example": "She conquered the highest summit."
-    },
-    {
-      "word": "Treacherous",
-      "bangla": "বিপজ্জনক/বিশ্বাসঘাতক",
-      "pronunciation": "ট্রেচারাস",
-      "example": "The mountain path is treacherous."
+      "word": "Prosperity",
+      "bangla": "সমৃদ্ধি",
+      "pronunciation": "প্রস্পারিটি",
+      "example": "Economic prosperity is the goal of the friendship."
     },
     {
       "word": "Objection",
       "bangla": "আপত্তি",
       "pronunciation": "অবজেকশন",
-      "example": "The court rejected the objection."
-    },
-    {
-      "word": "Assessment",
-      "bangla": "মূল্যায়ন",
-      "pronunciation": "অ্যাসেসমেন্ট",
-      "example": "The minister needs time for assessment."
+      "example": "The court rejected Myanmar's objection."
     },
     {
       "word": "Diplomacy",
       "bangla": "কূটনীতি",
       "pronunciation": "ডিপ্লোম্যাসি",
-      "example": "International diplomacy is essential for peace."
+      "example": "The Prime Minister's visit is a step in diplomacy."
     },
     {
-      "word": "Antivenom",
-      "bangla": "প্রতিষেধক/অ্যান্টিভেনম",
-      "pronunciation": "অ্যান্টিভেনম",
-      "example": "The lab is producing antivenom for snakes."
+      "word": "Summit",
+      "bangla": "শৃঙ্গ/শীর্ষ সম্মেলন",
+      "pronunciation": "সামিট",
+      "example": "Wasfia conquered the K2 summit."
     },
     {
       "word": "Conquer",
-      "bangla": "জয় করা",
+      "bangla": "জয় করা",
       "pronunciation": "কনকার",
-      "example": "He aims to conquer the world."
+      "example": "She was the first to conquer K2."
     },
     {
-      "word": "Forecast",
-      "bangla": "পূর্বাভাস",
-      "pronunciation": "ফোরকাস্ট",
-      "example": "The weather forecast predicts a cyclone."
+      "word": "Accountability",
+      "bangla": "জবাবদিহিতা",
+      "pronunciation": "অ্যাকাউন্টেবিলিটি",
+      "example": "There are demands for accountability."
     },
     {
-      "word": "Identify",
-      "bangla": "শনাক্ত করা",
-      "pronunciation": "আইডেন্টিফাই",
-      "example": "The administration identified the culprits."
+      "word": "Treachery",
+      "bangla": "বিশ্বাসঘাতকতা",
+      "pronunciation": "ট্রেচারী",
+      "example": "The political conspiracy involved treachery."
+    },
+    {
+      "word": "Protest",
+      "bangla": "প্রতিবাদ",
+      "pronunciation": "প্রোটেস্ট",
+      "example": "Businessmen organized a protest in Delhi."
+    },
+    {
+      "word": "Assault",
+      "bangla": "আক্রমণ/নির্যাতন",
+      "pronunciation": "অ্যাসাল্ট",
+      "example": "The administration identified the molesters involved in the assault."
     }
   ]
 }
