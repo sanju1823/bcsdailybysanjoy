@@ -1,33 +1,33 @@
 {
-  "date": "29 October 2026",
+  "date": "31 October 2026",
   "questions": [
     {
       "id": 1,
       "category": "বাংলাদেশ বিষয়াবলি",
-      "question": "সম্প্রতি কে-টু (K2) পর্বতশৃঙ্গ জয় করা প্রথম বাংলাদেশী নারী পর্বতারোহী কে?",
+      "question": "সম্প্রতি চট্টগ্রাম শিক্ষা বোর্ডে এইচএসসি পরীক্ষার পাসের হার কত শতাংশে দাঁড়িয়েছে?",
       "options": [
-        "ক) মালিহা নূর",
-        "খ) ওয়াসফিয়া নাজরিন",
-        "গ) তিশা আহমেদ",
-        "ঘ) সুমাইয়া আক্তার"
+        "ক) ৫৪.৫%",
+        "খ) ৫২.০৭%",
+        "গ) ৫০.২%",
+        "ঘ) ৫৩.১২%"
       ],
-      "answer": "খ) ওয়াসফিয়া নাজরিন",
-      "explanation": "ওয়াসফিয়া নাজরিন পাকিস্তানের কে-টু পর্বত জয় করা প্রথম বাংলাদেশী হয়েছেন। কে-টু বিশ্বের দ্বিতীয় সর্বোচ্চ পর্বতশৃঙ্গ।",
-      "source": "ডেইলি স্টার",
-      "sourceUrl": "https://www.thedailystar.net/news/bangladesh/news/wasfia-first-bangladeshi-conquer-k2-3076981"
+      "answer": "খ) ৫২.০৭%",
+      "explanation": "প্রথম আলোর প্রতিবেদন অনুযায়ী, চট্টগ্রাম শিক্ষা বোর্ডে এইচএসসি পাসের হার ৫২.০৭ শতাংশে নেমেছে, যা গত ১৫ বছরের মধ্যে সর্বনিম্ন।",
+      "source": "প্রথম আলো",
+      "sourceUrl": "https://www.prothomalo.com/education/examination/mwsand32hy"
     },
     {
       "id": 2,
-      "category": "আন্তর্জাতিক বিষয়াবলি",
-      "question": "কে-টু (K2) পর্বতশৃঙ্গটি কোন পর্বতমালায় অবস্থিত?",
+      "category": "বাংলাদেশ বিষয়াবলি",
+      "question": "সম্প্রতি কোন বাংলাদেশী পর্বতারোহী বিশ্বের দ্বিতীয় সর্বোচ্চ পর্বতশৃঙ্গ K2 জয় করে ইতিহাস সৃষ্টি করেছেন?",
       "options": [
-        "ক) হিমালয়",
-        "খ) আন্দিজ",
-        "গ) কারাকোরাম",
-        "ঘ) আল্পস"
+        "ক) নিশাত আমিন",
+        "খ) ওয়াসফিয়া নাজরিন",
+        "গ) সুমাইয়া আফরিন",
+        "ঘ) তানজিনা সুলতানা"
       ],
-      "answer": "গ) কারাকোরাম",
-      "explanation": "কে-টু কারাকোরাম পর্বতমালায় অবস্থিত এবং এটি বিশ্বের দ্বিতীয় সর্বোচ্চ পর্বতশৃঙ্গ।",
+      "answer": "খ) ওয়াসফিয়া নাজরিন",
+      "explanation": "ওয়াসফিয়া নাজরিন প্রথম বাংলাদেশী হিসেবে পাকিস্তানের K2 শৃঙ্গ জয় করেছেন। K2 বিশ্বের দ্বিতীয় সর্বোচ্চ পর্বত।",
       "source": "ডেইলি স্টার",
       "sourceUrl": "https://www.thedailystar.net/news/bangladesh/news/wasfia-first-bangladeshi-conquer-k2-3076981"
     },
@@ -36,18 +36,123 @@
       "category": "আন্তর্জাতিক বিষয়াবলি",
       "question": "রোহিঙ্গা গণহত্যা সংক্রান্ত মামলাটি বর্তমানে কোন আন্তর্জাতিক আদালতে বিচারাধীন?",
       "options": [
-        "ক) আন্তর্জাতিক অপরাধ আদালত (ICC)",
-        "খ) আন্তর্জাতিক বিচার আদালত (ICJ)",
-        "গ) জাতিসংঘ নিরাপত্তা পরিষদ",
-        "ঘ) ইউরোপীয় আদালত"
+        "ক) ICC",
+        "খ) ICJ",
+        "গ) UN Security Council",
+        "ঘne) PCA"
       ],
-      "answer": "খ) আন্তর্জাতিক বিচার আদালত (ICJ)",
-      "explanation": "রোহিঙ্গা গণহত্যা সংক্রান্ত মামলাটি আন্তর্জাতিক বিচার আদালতে (ICJ) চলমান রয়েছে, যেখানে মায়ানমারের আপত্তি প্রত্যাখ্যান করেছে আদালত।",
+      "answer": "খ) ICJ",
+      "explanation": "রোহিঙ্গা গণহত্যা সংক্রান্ত মামলাটি আন্তর্জাতিক বিচার আদালতে (International Court of Justice - ICJ) প্রক্রিয়াধীন রয়েছে। মায়ানমার এই মামলার আপত্তি প্রত্যাখ্যান করেছে আদালত।",
       "source": "ডেইলি স্টার",
       "sourceUrl": "https://www.thedailystar.net/rohingya-influx/news/rohingya-genocide-case-proceed-3076971"
     },
     {
       "id": 4,
+      "category": "বিজ্ঞান ও প্রযুক্তি",
+      "question": "সম্প্রতি যুক্তরাষ্ট্র ইউক্রেনকে ৫০০টি কোন ধরনের অত্যাধুনিক ক্ষেপণাস্ত্র বিক্রির অনুমোদন দিয়েছে?",
+      "options": [
+        "ক) S-400",
+        "খ) Patriot",
+        "গ) Iron Dome",
+        "ঘ) Scud"
+      ],
+      "answer": "খ) Patriot",
+      "explanation": "যুক্তরাষ্ট্র ইউক্রেনকে ৫০০টি প্যাট্রিয়ট (PAC-3) ক্ষেপণাস্ত্র বিক্রির অনুমোদন দিয়েছে। প্যাট্রিয়ট একটি উন্নত ভূমি থেকে আকাশে নিক্ষেপযোগ্য (Surface-to-air) ক্ষেপণাস্ত্র ব্যবস্থা।",
+      "source": "বিবিসি বাংলা",
+      "sourceUrl": "https://www.bbc.com/bengali/articles/cqm26prege4ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 5,
+      "category": "আন্তর্জাতিক বিষয়াবলি",
+      "question": "ওমান নৌবাহিনী সম্প্রতি কোন গুরুত্বপূর্ণ জলপথের কাছে একটি জাহাজে অগ্নিকাণ্ড থেকে নাবিকদের উদ্ধার করেছে?",
+      "options": [
+        "ক) মালাক্কা প্রণালী",
+        "খ) হরমুজ প্রণালী",
+        "গ) বাব-এল-মান্দেব",
+        "ঘচ) সুয়েজ খাল"
+      ],
+      "answer": "খ) হরমুজ প্রণালী",
+      "explanation": "হরমুজ প্রণালী বিশ্বের অন্যতম গুরুত্বপূর্ণ তেলবাহী জলপথ। মেরিটাইম সিকিউরিটি সেন্টারের সমন্বয়ে ওমানি নৌবাহিনী এই উদ্ধার অভিযান চালায়।",
+      "source": "প্রথম আলো",
+      "sourceUrl": "https://www.prothomalo.com/world/middle-east/gvu6mq5f7d"
+    },
+    {
+      "id": 6,
+      "category": "আন্তর্জাতিক বিষয়াবলি",
+      "question": "K2 পর্বতশৃঙ্গটি কোন পর্বতমালায় অবস্থিত?",
+      "options": [
+        "ক) হিমালয়",
+        "খ) কারাকোরাম",
+        "গ) হিন্দুকুশ",
+        "ঘ) আল্পস"
+      ],
+      "answer": "খ) কারাকোরাম",
+      "explanation": "K2 কারাকোরাম পর্বতমালায় অবস্থিত। এটি বিশ্বের দ্বিতীয় সর্বোচ্চ পর্বত।",
+      "source": "ডেইলি স্টার",
+      "sourceUrl": "https://www.thedailystar.net/news/bangladesh/news/wasfia-first-bangladeshi-conquer-k2-3076981"
+    },
+    {
+      "id": 7,
+      "category": "বিজ্ঞান ও প্রযুক্তি",
+      "question": "সম্প্রতি কোন ক্রিপ্টোকারেন্সি এক্সচেঞ্জ হ্যাকিংয়ের ঘটনায় উত্তর কোরীয় হ্যাকারদের সন্দেহে রাখা হয়েছে?",
+      "options": [
+        "ক) Coinbase",
+        "খ) Binance",
+        "গ) Kraken",
+        "ঘ) Gemini"
+      ],
+      "answer": "খ) Binance",
+      "explanation": "বিবিসি বাংলার প্রতিবেদন অনুযায়ী, বাইন্যান্সের রেকর্ড সৃষ্টিকারী চুরির ঘটনায় উত্তর কোরীয় হ্যাকারদের ওপর সন্দেহ প্রকাশ করা হয়েছে।",
+      "source": "বিবিসি বাংলা",
+      "sourceUrl": "https://www.bbc.com/bengali/articles/crkg7pp44k19o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 8,
+      "category": "সংবিধান ও রাজনীতি",
+      "question": "বিএনপি ও জামায়াত সম্প্রতি কোন বিষয় নিয়ে সংবিধান ও রাজনৈতিক স্থবিরতা তৈরির ষড়যন্ত্রের আশঙ্কা প্রকাশ করেছে?",
+      "options": [
+        "ক) নির্বাচন কমিশন সংস্কার",
+        "খ) জুলাই সনদ",
+        "গ) সংসদ বিলুপ্তি",
+        "ঘ) সুপ্রিম কোর্ট সংস্কার"
+      ],
+      "answer": "খ) জুলাই সনদ",
+      "explanation": "বিএনপি ও জামায়াত মনে করছে, আওয়ামী লীগের সঙ্গে আঁতাত করে 'জুলাই সনদ' এবং সংবিধান নিয়ে অচলাবস্থা তৈরির ষড়যন্ত্র করা হচ্ছে।",
+      "source": "বিবিসি বাংলা",
+      "sourceUrl": "https://www.bbc.com/bengali/articles/cwj3474djk12o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 9,
+      "category": "বাংলাদেশ বিষয়াবলি",
+      "question": "বিদ্যুৎ পরিস্থিতি মূল্যায়নের জন্য কত সময়ের সময় চেয়েছেন বিদ্যুৎ, জ্বালানি ও খনিজ সম্পদ প্রতিমন্ত্রী নাসরুল হামিদ?",
+      "options": [
+        "ক) ৩ দিন",
+        "খ) ১ সপ্তাহ",
+        "গ) ১৫ দিন",
+        "ঘ) ১ মাস"
+      ],
+      "answer": "খ) ১ সপ্তাহ",
+      "explanation": "বিদ্যুৎ বিভ্রাট ও শিডিউল অনুযায়ী লোডশেডিং করতে না পারার কারণে প্রতিমন্ত্রী ১ সপ্তাহ সময় চেয়েছেন পরিস্থিতি মূল্যায়নের জন্য।",
+      "source": "ডেইলি স্টার",
+      "sourceUrl": "https://www.thedailystar.net/news/bangladesh/news/need-1-week-assess-situation-3076976"
+    },
+    {
+      "id": 10,
+      "category": "খেলাধুলা",
+      "question": "মিরপুর টেস্টে ওয়েস্ট ইন্ডিজকে কত রানের লক্ষ্য দেওয়া হয়েছে?",
+      "options": [
+        "ক) ১৫০ রান",
+        "খ) ১৭০ রান",
+        "গ) ১৮০ রান",
+        "ঘ) ২০০ রান"
+      ],
+      "answer": "খ) ১৭০ রান",
+      "explanation": "বাংলাদেশ ও ওয়েস্ট ইন্ডিজ টেস্ট সিরিজের প্রথম ম্যাচে মিরপুরে ওয়েস্ট ইন্ডিজকে ১৭০ রানের লক্ষ্য দেওয়া হয়েছে।",
+      "source": "প্রথম আলো",
+      "sourceUrl": "https://www.prothomalo.com/sports/cricket/havs08wgsy"
+    },
+    {
+      "id": 11,
       "category": "আন্তর্জাতিক বিষয়াবলি",
       "question": "আন্তর্জাতিক বিচার আদালত (ICJ) এর সদর দপ্তর কোথায় অবস্থিত?",
       "options": [
@@ -57,249 +162,144 @@
         "ঘ) প্যারিস"
       ],
       "answer": "গ) দ্য হেগ",
-      "explanation": "ICJ নেদারল্যান্ডসের দ্য হেগ শহরে অবস্থিত। এটি জাতিসংঘের প্রধান বিচার বিভাগীয় অঙ্গ।",
+      "explanation": "ICJ বা আন্তর্জাতিক বিচার আদালতের সদর দপ্তর নেদারল্যান্ডের দ্য হেগে অবস্থিত। এটি জাতিসংঘের প্রধান বিচার বিভাগীয় অঙ্গ।",
       "source": "ডেইলি স্টার",
       "sourceUrl": "https://www.thedailystar.net/rohingya-influx/news/rohingya-genocide-case-proceed-3076971"
-    },
-    {
-      "id": 5,
-      "category": "অর্থনীতি",
-      "question": "সম্প্রতি বাংলাদেশের পোশাক শ্রমিকেরা মাসিক ন্যূনতম বেতন কত টাকা করার দাবিতে আন্দোলন করছেন?",
-      "options": [
-        "ক) ২৫,০০০ টাকা",
-        "খ) ৩০,০০০ টাকা",
-        "গ) ৩৫,০০০ টাকা",
-        "ঘ) ৪০,০০০ টাকা"
-      ],
-      "answer": "খ) ৩০,০০০ টাকা",
-      "explanation": "রাজধানীর মিরপুর-১০ এলাকায় পোশাক শ্রমিকেরা ৩০ হাজার টাকা ন্যূনতম বেতনের দাবিতে আন্দোলন করছেন।",
-      "source": "প্রথম আলো",
-      "sourceUrl": "https://www.prothomalo.com/video/bangladesh/d357d3d0dc"
-    },
-    {
-      "id": 6,
-      "category": "বাংলাদেশ বিষয়াবলি",
-      "question": "বর্তমানে বাংলাদেশের বিদ্যুৎ, জ্বালানি ও খনিজ সম্পদ বিষয়ক প্রতিমন্ত্রী হিসেবে কে দায়িত্ব পালন করছেন?",
-      "options": [
-        "ক) ওনারী নজরুল",
-        "খ) নাসরুল হামিদ",
-        "গ) তৌহিদ মোঃ রিয়াদ",
-        "ঘ) অখলাস আহমেদ"
-      ],
-      "answer": "খ) নাসরুল হামিদ",
-      "explanation": "নাসরুল হামিদ বিদ্যুৎ, জ্বালানি ও খনিজ সম্পদ বিষয়ক প্রতিমন্ত্রী হিসেবে বিদ্যুৎ বিভ্রাট ও পরিস্থিতি মূল্যায়নে কাজ করছেন।",
-      "source": "ডেইলি স্টার",
-      "sourceUrl": "https://www.thedailystar.net/news/bangladesh/news/need-1-week-assess-situation-3076976"
-    },
-    {
-      "id": 7,
-      "category": "অর্থনীতি",
-      "question": "সাম্প্রতিক প্রতিবেদন অনুযায়ী, চিকিৎসা ব্যয়ের চাপে কত শতাংশ মানুষ দারিদ্র্যসীমার নিচে চলে যাওয়ার ঝুঁকিতে রয়েছে?",
-      "options": [
-        "ক) ৮০ লক্ষ",
-        "খ) ৯০ লক্ষ",
-        "গ) ১ কোটি ৮ লক্ষ",
-        "ঘ) ১ কোটি ৫০ লক্ষ"
-      ],
-      "answer": "গ) ১ কোটি ৮ লক্ষ",
-      "explanation": "চিকিৎসা খরচের উচ্চ চাপের কারণে প্রায় ১ কোটি ৮ লক্ষ মানুষ দারিদ্র্যের নিচে নেমে যাচ্ছে।",
-      "source": "বিবিসি বাংলা",
-      "sourceUrl": "https://www.bbc.com/bengali/articles/ckdd8qrvzqq7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": 8,
-      "category": "সংবিধান ও রাজনীতি",
-      "question": "আওয়ামী লীগ নিষিদ্ধ করার বিষয়ে জাতিসংঘে কার আবেদন গুরুত্ব পাচ্ছে?",
-      "options": [
-        "ক) ড. ইউনূস",
-        "খ) শেখ হাসিনা",
-        "গ) ওয়াজেদিয়া হাসান",
-        "ঘ) খালেদা জিয়া"
-      ],
-      "answer": "খ) শেখ হাসিনা",
-      "explanation": "আওয়ামী লীগের ওপর নিষেধাজ্ঞার প্রেক্ষিতে শেখ হাসিনার পক্ষ থেকে জাতিসংঘে আবেদনের খবর পাওয়া গেছে।",
-      "source": "বিবিসি বাংলা",
-      "sourceUrl": "https://www.bbc.com/bengali/articles/ckdd8qrvzqq7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": 9,
-      "category": "খেলাধুলা",
-      "question": "বাংলাদেশ ও ওয়েস্ট ইন্ডিজের মধ্যে চলমান টেস্ট সিরিজের প্রথম ম্যাচে কোন বোলার প্রথম উইকেটটি নেন?",
-      "options": [
-        "ক) তাসকিন আহমেদ",
-        "খ) মেহেদী হাসান মিরাজ",
-        "গ) হাসান",
-        "ঘ) মাহমুদ হাসান"
-      ],
-      "answer": "গ) হাসান",
-      "explanation": "মিরপুর টেস্টে হাসান প্রথম উইকেট শিকার করে বাংলাদেশকে সাফল্য এনে দেন।",
-      "source": "প্রথম আলো",
-      "sourceUrl": "https://www.prothomalo.com/sports/cricket/havs08wgsy"
-    },
-    {
-      "id": 10,
-      "category": "আন্তর্জাতিক বিষয়াবলি",
-      "question": "ব্রাজিলের কোন সিনেটর সম্প্রতি যুক্তরাষ্ট্রে মিয়ামিতে পৌঁছেছেন?",
-      "options": [
-        "ক) লুইজ ইনাসিও",
-        "খ) ফ্লাভিও বোলসোনারো",
-        "গ) জায়র বোলসোনারো",
-        "ঘ) গ্যাব্রিয়েল বোনাফাস"
-      ],
-      "answer": "খ) ফ্লাভিও বোলসোনারো",
-      "explanation": "ব্রাজিলের সিনেটর ফ্লাভিও বোলসোনারো প্রেসিডেন্ট নির্বাচনে হারের পর যুক্তরাষ্ট্রে পৌঁছেছেন।",
-      "source": "বিবিসি বাংলা",
-      "sourceUrl": "https://www.bbc.com/bengali/articles/c65yn8jyqx8jo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": 11,
-      "category": "বিজ্ঞান ও প্রযুক্তি",
-      "question": "হৃদরোগ ও মৃত্যুর ঝুঁকি কমাতে নিচের কোনটি সবচেয়ে কার্যকর পদ্ধতি হিসেবে উল্লেখ করা হয়েছে?",
-      "options": [
-        "ক) অধিক ঘুম",
-        "খ) নিয়মিত ব্যায়াম ও দৈনন্দিন কার্যকলাপ",
-        "গ) শুধুমাত্র সুষম খাদ্য",
-        "ঘ) পর্যাপ্ত পানি পান"
-      ],
-      "answer": "খ) নিয়মিত ব্যায়াম ও দৈনন্দিন কার্যকলাপ",
-      "explanation": "দৈনন্দিন সাধারণ কার্যকলাপ হৃদরোগের ঝুঁকি কমাতে সাহায্য করে।",
-      "source": "বিবিসি বাংলা",
-      "sourceUrl": "https://www.bbc.com/bengali/articles/c60rlxj57e0no?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": 12,
-      "category": "বাংলাদেশ বিষয়াবলি",
-      "question": "বাংলাদেশের কোন পর্বতারোহী বিশ্বের দ্বিতীয় সর্বোচ্চ শৃঙ্গ কে-টু জয় করেছেন?",
+      "category": "বিজ্ঞান ও প্রযুক্তি",
+      "question": "উত্তর কোরিয়ার কোন নেতাকে কেন্দ্র করে হ্যাকিংয়ের সন্দেহ প্রকাশ করা হয়েছে?",
       "options": [
-        "ক) তানভীর আহমেদ",
-        "খ) ওয়াসফিয়া নাজরিন",
-        "গ) রনি হাসান",
-        "ঘ) নিলয় আলম"
+        "ক) কিম জং নান",
+        "খ) কিম জং উন",
+        "গ) কিম জং উন-মিন",
+        "ঘচ) কিম জং রিয়া"
       ],
-      "answer": "খ) ওয়াসফিয়া নাজরিন",
-      "explanation": "ওয়াসফিয়া নাজরিন কে-টু জয় করা প্রথম বাংলাদেশী।",
-      "source": "ডেইলি স্টার",
-      "sourceUrl": "https://www.thedailystar.net/news/bangladesh/news/wasfia-first-bangladeshi-conquer-k2-3076981"
+      "answer": "খ) কিম জং উন",
+      "explanation": "বিবিসি বাংলার মতে, উত্তর কোরীয় নেতা কিম জং উনের সরকারকে হ্যাকিংয়ের ঘটনায় সন্দেহভাজন হিসেবে দেখা হচ্ছে।",
+      "source": "বিবিসি বাংলা",
+      "sourceUrl": "https://www.bbc.com/bengali/articles/crkg7pp44k19o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": 13,
-      "category": "আন্তর্জাতিক বিষয়াবলি",
-      "question": "আন্তর্জাতিক আইনে 'গণহত্যা' (Genocide) বলতে মূলত কী বোঝায়?",
+      "category": "বাংলাদেশ বিষয়াবলি",
+      "question": "সম্প্রতি প্রতিবেদনে কোন খাতের মজুত ফুরিয়ে যাওয়ার বিষয়ে উদ্বেগ প্রকাশ করা হয়েছে?",
       "options": [
-        "ক) একটি জাতির রাজনৈতিক দমন",
-        "খ) একটি জাতীয়, জাতিগত বা ধর্মীয় গোষ্ঠীকে ধ্বংস করার চেষ্টা",
-        "গ) অর্থনৈতিক অবরোধ",
-        "ঘ) সীমানা পরিবর্তন"
+        "ক) খাদ্য মজুত",
+        "খ) প্রাকৃতিক গ্যাস মজুত",
+        "গ) স্বর্ণ মজুত",
+        "ঘচ) বৈদেশিক মুদ্রা মজুত"
       ],
-      "answer": "খ) একটি জাতীয়, জাতিগত বা ধর্মীয় গোষ্ঠীকে ধ্বংস করার চেষ্টা",
-      "explanation": "রোহিঙ্গা গণহত্যা সংক্রান্ত মামলাটি মূলত একটি নির্দিষ্ট জনগোষ্ঠীর বিরুদ্ধে গণহত্যার অভিযোগে ICJ-তে চলছে।",
-      "source": "ডেইলি স্টার",
-      "sourceUrl": "https://www.thedailystar.net/rohingya-influx/news/rohingya-genocide-case-proceed-3076971"
+      "answer": "খ) প্রাকৃতিক গ্যাস মজুত",
+      "explanation": "বিবিসি বাংলার প্রতিবেদন অনুযায়ী, বর্তমানে গ্যাসের মজুত ফুরিয়ে যাওয়ার বিষয়ে উদ্বেগ প্রকাশ করা হয়েছে।",
+      "source": "বিবিসি বাংলা",
+      "sourceUrl": "https://www.bbc.com/bengali/articles/cm62yel91yepo"
     },
     {
       "id": 14,
-      "category": "অর্থনীতি",
-      "question": "স্বাস্থ্য খাতের উচ্চ খরচের সাথে নিচের কোনটি সরাসরি সম্পর্কিত?",
-      "options": [
-        "ক) জিডিপি বৃদ্ধি",
-        "খ) দারিদ্র্যসীমার নিচে মানুষের সংখ্যা বৃদ্ধি",
-        "গ) বৈদেশিক মুদ্রার সঞ্চয়",
-        "ঘ) শিল্পায়ন"
-      ],
-      "answer": "খ) দারিদ্র্যসীমার নিচে মানুষের সংখ্যা বৃদ্ধি",
-      "explanation": "চিকিৎসা ব্যয়ের কারণে বিপুল সংখ্যক মানুষ দারিদ্র্যের কবলে পড়ছে।",
-      "source": "বিবিসি বাংলা",
-      "sourceUrl": "https://www.bbc.com/bengali/articles/ckdd8qrvzqq7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": 15,
-      "category": "খেলাধুলা",
-      "question": "বাংলাদেশ ও ওয়েস্ট ইন্ডিজ টেস্ট সিরিজের প্রথম ম্যাচটি কোথায় অনুষ্ঠিত হচ্ছে?",
-      "options": [
-        "ক) চট্টগ্রাম",
-        "খ) মিরপুর",
-        "গ) Sylhet",
-        "ঘ) খুলনা"
-      ],
-      "answer": "খ) মিরপুর",
-      "explanation": "মিরপুর টেস্টে বাংলাদেশ ও ওয়েস্ট ইন্ডিজের মধ্যকার ম্যাচটি অনুষ্ঠিত হচ্ছে।",
-      "source": "প্রথম আলো",
-      "sourceUrl": "https://www.prothomalo.com/sports/cricket/havs08wgsy"
-    },
-    {
-      "id": 16,
       "category": "আন্তর্জাতিক বিষয়াবলি",
-      "question": "ফ্লাভিও বোলসোনারোর রাজনৈতিক কর্মকাণ্ড কোন দেশের সাথে সম্পর্কিত?",
+      "question": "গণহত্যা (Genocide) শব্দের উদ্ভাবক কে?",
       "options": [
-        "ক) আর্জেন্টিনা",
-        "খ) ব্রাজিল",
-        "গ) কলম্বিয়া",
-        "ঘ) চিলি"
+        "ক) র‍্যাফেল ডাম্ব",
+        "খ) রাফাল লেমকিন",
+        "গ) আব্রাহাম লিংকন",
+        "ঘচ) উইনস্টন চার্চিল"
       ],
-      "answer": "খ) ব্রাজিল",
-      "explanation": "ফ্লাভিও বোলসোনারো ব্রাজিলের একজন বিশিষ্ট সিনেটর।",
-      "source": "বিবিসি বাংলা",
-      "sourceUrl": "https://www.bbc.com/bengali/articles/c65yn8jyqx8jo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": 17,
-      "category": "আন্তর্জাতিক বিষয়াবলি",
-      "question": "রোহিঙ্গা গণহত্যা মামলার ক্ষেত্রে মায়ানমারের কোন পদক্ষেপটি আদালত প্রত্যাখ্যান করেছে?",
-      "options": [
-        "ক) মামলা খারিজের আবেদন",
-        "খ) সাক্ষ্য গ্রহণ",
-        "গ) তদন্ত কমিটি গঠন",
-        "ঘ) দণ্ডাদেশ"
-      ],
-      "answer": "ক) মামলা খারিজের আবেদন",
-      "explanation": "বিশ্ব আদালত মায়ানমারের আপত্তি বা মামলা খারিজের দাবি প্রত্যাখ্যান করেছে।",
+      "answer": "খ) রাফাল লেমকিন",
+      "explanation": "১৯৪৩ সালে পোলিশ ইহুদি আইনবিদ রাফাল লেমকিন 'Genocide' শব্দটি প্রবর্তন করেন।",
       "source": "ডেইলি স্টার",
       "sourceUrl": "https://www.thedailystar.net/rohingya-influx/news/rohingya-genocide-case-proceed-3076971"
     },
     {
-      "id": 18,
+      "id": 15,
       "category": "বাংলাদেশ বিষয়াবলি",
-      "question": "ঢাকার কোন এলাকা থেকে তুরাগ নদে মৃতদেহ উদ্ধার করা হয়েছে?",
+      "question": "বাংলাদেশে বর্তমানে কত লাখ স্বাস্থ্যকর্মী নিয়োগের পরিকল্পনা করা হয়েছে?",
       "options": [
-        "ক) উত্তরা",
-        "খ) উত্তরখান",
-        "গ) ডেমরা",
-        "ঘ) সাভার"
+        "ক) ৫০ হাজার",
+        "খ) ১ লাখ",
+        "গ) ২ লাখ",
+        "ঘচ) ৫ লাখ"
       ],
-      "answer": "খ) উত্তরখান",
-      "explanation": "ঢাকার উত্তরখান এলাকা থেকে তুরাগ নদে মৃতদেহটি উদ্ধার করা হয়েছে।",
+      "answer": "খ) ১ লাখ",
+      "explanation": "বিবিসি বাংলার প্রতিবেদন অনুযায়ী, আগামী তিন বছরে এক লাখ স্বাস্থ্যকর্মী নিয়োগের পরিকল্পনা করা হয়েছে।",
       "source": "বিবিসি বাংলা",
-      "sourceUrl": "https://www.bbc.com/bengali/articles/c5djv7n87p3no?at_medium=RSS&at_campaign=rss"
+      "sourceUrl": "https://www.bbc.com/bengali/articles/cm62yel91yepo"
+    },
+    {
+      "id": 16,
+      "category": "বিজ্ঞান ও প্রযুক্তি",
+      "question": "Patriot ক্ষেপণাস্ত্র ব্যবস্থার পূর্ণরূপ কী?",
+      "options": [
+        "ক) Patterned Air-to-Surface Missile",
+        "খ) Patriot Advanced Integrated Technology",
+        "গ) Precision Air-to-Surface Tactical Missile",
+        "ঘচ) Patriot Advanced Integrated Missile System"
+      ],
+      "answer": "ঘচ) Patriot Advanced Integrated Missile System",
+      "explanation": "প্যাট্রিয়ট (Patriot) একটি অত্যাধুনিক ক্ষেপণাস্ত্র ব্যবস্থা যা মূলত আকাশ প্রতিরক্ষা (Air Defense) এর জন্য ব্যবহৃত হয়।",
+      "source": "বিবিসি বাংলা",
+      "sourceUrl": "https://www.bbc.com/bengali/articles/cqm26prege4ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 17,
+      "category": "বাংলাদেশ বিষয়াবলি",
+      "question": "সম্প্রতি কোন শিক্ষা বোর্ডের এইচএসসি পাসের হার গত ১৫ বছরের মধ্যে সর্বনিম্ন হয়েছে?",
+      "options": [
+        "ক) ঢাকা বোর্ড",
+        "খ) রাজশাহী বোর্ড",
+        "গ) চট্টগ্রাম বোর্ড",
+        "ঘচ) কুমিল্লা বোর্ড"
+      ],
+      "answer": "গ) চট্টগ্রাম বোর্ড",
+      "explanation": "প্রথম আলোর তথ্যমতে, চট্টগ্রাম শিক্ষা বোর্ডে এইচএসসি পাসের হার ৫২.০৭% এ নেমে এসেছে যা ১৫ বছরের মধ্যে সর্বনিম্ন।",
+      "source": "প্রথম আলো",
+      "sourceUrl": "https://www.prothomalo.com/education/examination/mwsand32hy"
+    },
+    {
+      "id": 18,
+      "category": "আন্তর্জাতিক বিষয়াবলি",
+      "question": "রোহিঙ্গাদের প্রতি মিয়ানমারের আচরণের প্রেক্ষিতে কোন আন্তর্জাতিক আইন লঙ্ঘিত হয়েছে বলে অভিযোগ করা হয়েছে?",
+      "options": [
+        "ক) মানবাধিকার সনদ",
+        "খ) গণহত্যা কনভেনশন",
+        "গ) সমুদ্র আইন",
+        "ঘচ) জেনেভা কনভেনশন"
+      ],
+      "answer": "খ) গণহত্যা কনভেনশন",
+      "explanation": "রোহিঙ্গা সংখ্যালঘুদের প্রতি মিয়ানমারের আচরণের প্রেক্ষিতে গণহত্যা (Genocide) সংক্রান্ত মামলাটি আন্তর্জাতিক আদালতে চলছে।",
+      "source": "ডেইলি স্টার",
+      "sourceUrl": "https://www.thedailystar.net/rohingya-influx/news/rohingya-genocide-case-proceed-3076971"
     },
     {
       "id": 19,
-      "category": "অর্থনীতি",
-      "question": "পোশাক শ্রমিকদের আন্দোলনের প্রধান দাবি কোনটি?",
+      "category": "বাংলাদেশ বিষয়াবলি",
+      "question": "চট্টগ্রাম বিশ্ববিদ্যালয়ে (CU) সম্প্রতি কোন ধরনের ঘটনায় প্রশাসনিক ব্যবস্থা নেওয়া হয়েছে?",
       "options": [
-        "ক) বোনাস বৃদ্ধি",
-        "খ) কর্মঘণ্টা কমানো",
-        "গ) ন্যূনতম বেতন ৩০ হাজার টাকা করা",
-        "ঘ) বেতন বৃদ্ধি বন্ধ করা"
+        "ক) ছাত্র আন্দোলন",
+        "খ) যৌন নিপীড়ন",
+        "গ) ডাকাতি",
+        "ঘচ) ধর্মীয় বিতর্ক"
       ],
-      "answer": "গ) ন্যূনতম বেতন ৩০ হাজার টাকা করা",
-      "explanation": "পোশাক শ্রমিকেরা মিরপুর-১০ এর অবরোধ করে ৩০ হাজার টাকা ন্যূনতম বেতনের দাবি জানিয়েছেন।",
-      "source": "প্রথম আলো",
-      "sourceUrl": "https://www.prothomalo.com/video/bangladesh/d357d3d0dc"
+      "answer": "খ) যৌন নিপীড়ন",
+      "explanation": "চট্টগ্রাম বিশ্ববিদ্যালয় প্রশাসন সম্প্রতি ক্যাম্পাসে এক ছাত্রীকে যৌন হেনস্থার জন্য জড়িত দুই ব্যক্তিকে শনাক্ত করেছে।",
+      "source": "ডেইলি স্টার",
+      "sourceUrl": "https://www.thedailystar.net/youth/education/campus/news/cu-admin-identifies-2-molesters-3076956"
     },
     {
       "id": 20,
-      "category": "খেলাধুলা",
-      "question": "বাংলাদেশ-ওয়েস্ট ইন্ডিজ টেস্ট সিরিজের প্রথম ম্যাচের লাইভ আপডেট কোন সংবাদমাধ্যমে পাওয়া যাচ্ছে?",
+      "category": "আন্তর্জাতিক বিষয়াবলি",
+      "question": "নিরাপত্তা নিশ্চিত করতে মেরিটাইম সিকিউরিটি সেন্টার কার সঙ্গে সমন্বয় করে কাজ করে?",
       "options": [
-        "ক) প্রথম আলো",
-        "খ) ডেইলি স্টার",
-        "গ) বিবিসি",
-        "ঘ) যুগান্তর"
+        "ক) জাতিসংঘ",
+        "খ) ওমান নৌবাহিনী",
+        "গ) আইএমএফ",
+        "ঘচ) ইউরোপীয় ইউনিয়ন"
       ],
-      "answer": "ক) প্রথম আলো",
-      "explanation": "প্রথম আলোতে এই টেস্ট ম্যাচের লাইভ আপডেট ও বিস্তারিত তথ্য প্রদান করা হচ্ছে।",
+      "answer": "খ) ওমান নৌবাহিনী",
+      "explanation": "মেরিটাইম সিকিউরিটি সেন্টারের সাথে সমন্বয় করে ওমানি নৌবাহিনী হরমুজ প্রণালীর কাছে জাহাজে আগুন লাগার ঘটনায় নাবিকদের উদ্ধার করেছে।",
       "source": "প্রথম আলো",
-      "sourceUrl": "https://www.prothomalo.com/sports/cricket/havs08wgsy"
+      "sourceUrl": "https://www.prothomalo.com/world/middle-east/gvu6mq5f7d"
     }
   ],
   "vocabulary": [
@@ -307,7 +307,13 @@
       "word": "Genocide",
       "bangla": "গণহত্যা",
       "pronunciation": "জেনোসাইড",
-      "example": "The court is investigating the genocide."
+      "example": "The World Court is hearing the Rohingya genocide case."
+    },
+    {
+      "word": "Summit",
+      "bangla": "শীর্ষবিন্দু / চূড়া",
+      "pronunciation": "সামিট",
+      "example": "Wasfia Nazreen conquered the K2 summit."
     },
     {
       "word": "Objection",
@@ -316,52 +322,46 @@
       "example": "The court rejected Myanmar's objections."
     },
     {
-      "word": "Assess",
-      "bangla": "মূল্যায়ন করা",
-      "pronunciation": "অ্যাসেস",
-      "example": "The minister needs time to assess the situation."
+      "word": "Treacherous",
+      "bangla": "বিপজ্জনক / বিশ্বাসঘাতক",
+      "pronunciation": "ট্রেচারাস",
+      "example": "She climbed the treacherous K2 mountain."
+    },
+    {
+      "word": "Coordinate",
+      "bangla": "সমন্বয় করা",
+      "pronunciation": "কোঅর্ডিনেট",
+      "example": "The navy coordinated the rescue operation."
+    },
+    {
+      "word": "Assault",
+      "bangla": "আক্রমণ / হামলা",
+      "pronunciation": "অ্যাসল্ট",
+      "example": "The administration identified the molesters involved in the assault."
+    },
+    {
+      "word": "Assessment",
+      "bangla": "মূল্যায়ন",
+      "pronunciation": "অ্যাসেসমেন্ট",
+      "example": "The minister needs one week for assessment."
+    },
+    {
+      "word": "Administration",
+      "bangla": "প্রশাসন",
+      "pronunciation": "অ্যাডমিনিস্ট্রেশন",
+      "example": "The university administration took strict action."
+    },
+    {
+      "word": "Impose",
+      "bangla": "আরোপ করা",
+      "pronunciation": "ইমপোজ",
+      "example": "The government could not impose schedule-wise power cuts."
     },
     {
       "word": "Conquer",
       "bangla": "জয় করা",
       "pronunciation": "কনকার",
-      "example": "She conquered the highest peak."
-    },
-    {
-      "word": "Treacherous",
-      "bangla": "বিপজ্জনক/অত্যন্ত দুর্গম",
-      "pronunciation": "ট্রেচারাস",
-      "example": "The mountaineer climbed a treacherous path."
-    },
-    {
-      "word": "Assault",
-      "bangla": "আক্রমণ/ধর্ষণ",
-      "pronunciation": "অ্যাসল্ট",
-      "example": "The student was victim of assault."
-    },
-    {
-      "word": "Minimum",
-      "bangla": "ন্যূনতম",
-      "pronunciation": "মিনিমাম",
-      "example": "The minimum wage should be increased."
-    },
-    {
-      "word": "Poverty",
-      "bangla": "দারিদ্র্য",
-      "pronunciation": "পভার্টি",
-      "example": "Medical costs are increasing poverty."
-    },
-    {
-      "word": "Summit",
-      "bangla": "শীর্ষবিন্দু/চূড়া",
-      "pronunciation": "সামিট",
-      "example": "He reached the summit of K2."
-    },
-    {
-      "word": "Impose",
-      "bangla": "আরোপ করা",
-      "pronunciation": "ইম্পোজ",
-      "example": "The government imposed new rules."
+      "example": "She became the first Bangladeshi to conquer K2."
     }
   ]
 }
